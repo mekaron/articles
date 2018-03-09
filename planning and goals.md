@@ -18,6 +18,6 @@ After that:
 How to do translation in a continuous delivery environment
 
 ## Goal of the article:
-Make people aware that publishing fast and being able to make changes afterwards is more valuable than spending time on QA and trying to make it perfect.
+Explain how continuous delivery impacts translation
 
  
