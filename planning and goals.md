@@ -6,9 +6,9 @@ e.g. questions and answers?
 Plan meeting(s) (standup(s)/review/retro???)
 
 After that:
-Set up github project (https://beta.newatoms.com/using-github-for-collaborative-journalism-7c05b53a85d5)
-Set up task board?
-start writing
+* Set up github project (https://beta.newatoms.com/using-github-for-collaborative-journalism-7c05b53a85d5)
+* Set up task board?
+* start writing
 
 
 
@@ -19,3 +19,5 @@ How to do translation in a continuous delivery environment
 
 ## Goal of the article:
 Make people aware that publishing fast and being able to make changes afterwards is more valuable than spending time on QA and trying to make it perfect.
+
+How do we get translators to contribute 
