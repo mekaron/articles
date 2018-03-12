@@ -50,7 +50,7 @@ Software companies are looking to transition away from big distributed developme
 
 * Empower the team and let the translators in the team participate in how the goals are to be reached when it comes to multilingual deployment.
 
-* Embrace Change. Make sure change is at the core of your process. Content is dynamic and consolidation of the source before translating unnecessarily delays deployment.
+* Embrace Change. Make sure change is at the core of your process. Content is dynamic and the need to consolidate the source before starting translation unnecessarily delays deployment.
 
 * Constantly solicit feedback. Don't be afraid to publish early versions of your translations. Test whether your content reaches your goals and make sure you can implement feedback easily and quickly.
 
