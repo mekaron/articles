@@ -1,4 +1,4 @@
-# Translation in a Continuous Delivery Environment
+# When Speed and Quality Collide -- Translation in a Continuous Delivery Environment
 
 ## Goal
 This article aims to give insight on the impact on localization and translation processes when software is deployed continuously and addresses the paradigm shift that is required to prevent translation from becoming a bottleneck to rapidly delivering software.
@@ -21,7 +21,7 @@ Development teams do this by continuously deploying small functional increments 
 
 This approach is completely at odds with today’s translation and localization processes.
 
-In a traditional waterfall development process translation and localization was often delayed until nearly product release. User interfaces and most product documentation was generally frozen close to final completion before translation would even begin. The translation phase typically became a bottleneck for delivery as this process would often take many iterations and require deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. This meant that a release, though already completed in English, would still take several weeks or months before the translations would be complete, thereby delaying the overall release time of the application. 
+In a traditional waterfall development process translation and localization was often delayed until near product release. User interfaces and most product documentation was generally frozen close to final completion before translation would even begin. The translation phase typically became a bottleneck for delivery as this process would often take many iterations and require deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. This meant that a release, though already completed in English, would still take several weeks or months before the translations would be complete, thereby delaying the overall release time of the application. 
  
 In a continuous delivery cycle, the value of what is released is largely determined by the speed that it is deployed and delaying a product release because of translation is unacceptable. This means that translation and localization processes must adopt a continuous delivery model, just like software development processes have, and incrementally deliver translation with minimal human overhead. 
 
@@ -34,7 +34,7 @@ Software companies are looking to transition away from big distributed developme
 
 * Translators need to quickly determine and understand the context of an application without having to engage the software development team in lengthy training sessions. 
 
-* Translators now need to decide how and when to make use of machine translation and when other quality is needed in order to reach the goal of the content. 
+* Translators now need to decide how and when to make use of machine translation and quality levels needed in order to reach the goal of the content. 
 
 * Translators also need to collect and provide early feedback to the development team as it relates to UI design and linguistic implications of features and capabilities.
 
@@ -54,10 +54,10 @@ Software companies are looking to transition away from big distributed developme
 
 
 ## Conclusion: a paradigm shift
-For a lot of people that have been working in the translation and localization industry, it is not easy step to let go of the traditional processes that have worked well for many years. It is often difficult to allow products that may have imperfect translations to go out, as this is something that seems completely at odds with the high standards that the industry has established. Typically many QA cycles are usually applied before translations are published. These processes have worked well in the past where constant change was less of a factor, but in today's rapid and shortened development cycles these processes no longer meet current needs. 
+For a lot of people that have been working in the translation and localization industry, it is not an easy step to let go of the traditional processes that have worked well for many years. It is often difficult to allow products that may have imperfect translations to go out, as this is something that seems completely at odds with the high standards that the industry has established. Typically many QA cycles are usually applied before translations are published. These processes have worked well in the past where constant change was less of a factor, but in today's rapid and shortened development cycles these processes no longer meet current needs. 
 
 What we need to realize is that the notion of quality is now more fluid. Our emphasis needs to shift to the concept of usability and the only people that can really tell you whether your content is usable, are your users. The crowd will tell you what you should be spending your scarce time and money on to maximize the user experience. 
 
 ### Practice what you preach
-_Was this article useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the medium platform or contact the authors directly through LinkedIn. 
+Was this article useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the medium platform or contact the authors directly through LinkedIn. 
 
