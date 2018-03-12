@@ -17,7 +17,7 @@ The software industry has been in a revolution in the transformation from buildi
 
 The need to spend a lot of time and money on translation is often in direct opposition with the desire to minimize the overall cost in creating applications. This is especially apparent when new capabilities are being delivered that are unknown as to whether they will be liked, accepted, and used in the marketplace. 
 
-Development teams do this by continuously deploying small functional increments of their product in short time boxed iterations that are commonly known as 'sprints' and having people test it through actual deployed use. Teams use the feedback of these users to create the next incremental capability that is also deployed as early as possible. The effect of this is that instead of spending months to create a huge software release teams deploy small frequent updates, sometimes multiple times a day. 
+Development teams do this by continuously deploying small functional increments of their product in short time boxed iterations that are commonly known as 'sprints' and having people test it through actual deployed use. Teams use the feedback of these users to create the next incremental capability that is also deployed as early as possible. The effect of this is that instead of spending months to create a huge software release, teams deploy small frequent updates, sometimes multiple times a day. 
 
 ## How does this impact translation?
 
