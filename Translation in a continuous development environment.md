@@ -32,7 +32,7 @@ In a continuous delivery cycle, the value of what is released is largely determi
 
 This new way of working now requires us to rethink how translation fits into modern development strategies. 
 
-Software teams are looking to transition away from big distributed development teams to smaller co-located teams that can operate as a single cohesive unit. This means that for teams to be able to capture the wider marketplace beyond their local language, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. Translators now need to take on new roles that extend beyond simple translation:
+Software companies are looking to transition away from big distributed development teams to smaller co-located teams that can operate as a single cohesive unit. This means that for teams to be able to capture the wider marketplace beyond their local language, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. Translators now need to take on new roles that extend beyond simple translation:
 
 * Translators need to quickly determine and understand the context of an application without having to engage the software development team in lengthy training sessions. 
 
