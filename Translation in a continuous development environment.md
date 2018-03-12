@@ -13,7 +13,7 @@ This article aims to give insight on the impact on localization and translation 
 
 ## What is Continuous Delivery?
 
-The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability, and at the same time reach as broad a market as possible. To reach broader markets, though requires solutions to be translated into the users languages.
+The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability, and at the same time reach as broad a market as possible. To reach broader markets, though, requires solutions to be translated into the users' languages.
 
 The need to spend a lot of time and money on translation, though can at times be in direct opposition with the desire to minimize the overall cost in creating applications. This is especially apparent when new capabilities are being delivered that are unknown as to whether they will be liked, accepted, and used in the marketplace. 
 
