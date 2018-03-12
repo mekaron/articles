@@ -3,7 +3,7 @@
 ## Goal
 This article aims to give insight on the impact on localization and translation processes when software is deployed continuously and addresses the paradigm shift that is required to prevent translation from becoming a bottleneck to rapidly delivering software.
 
-## The 4 things you've always wanted to know
+## 4 things you've always wanted to know
 * What is Continuous Delivery?
 * How does this impact translation? 
 * What needs to change?
