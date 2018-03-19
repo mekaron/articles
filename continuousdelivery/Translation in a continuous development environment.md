@@ -17,9 +17,11 @@ The software industry has been in a revolution in the transformation from buildi
 
 Development teams do this by continuously deploying small functional increments of their product in short time boxed iterations that are commonly known as 'sprints' and having people test it through actual deployed use. Teams use the feedback of these users to create the next incremental capability that is also deployed as early as possible. 
 
+The effect of this is that instead of spending months to create a huge software release, teams deploy small frequent updates, sometimes multiple times a day. 
+
 ## Why Continuous Delivery? 
 
-The effect of this is that instead of spending months to create a huge software release, teams deploy small frequent updates, sometimes multiple times a day. The advantages of taking this new approach to software development have proven to be:
+The advantages of taking this new approach to software development have proven to be:
 
 _Minimize the time to market_ 
 
