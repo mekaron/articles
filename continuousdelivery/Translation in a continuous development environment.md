@@ -8,7 +8,7 @@ This article aims to give insight on the impact on localization and translation 
 * Why Continuous Delivery? 
 * How does this impact translation? 
 * What needs to change?
-* What can we learn from Continuous Delivery?
+* What can we learn from Agile software development?
 
 ## What is Continuous Delivery?
 
