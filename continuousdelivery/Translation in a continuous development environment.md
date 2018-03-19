@@ -3,21 +3,32 @@
 ## Goal
 This article aims to give insight on the impact on localization and translation processes when software is deployed continuously and addresses the paradigm shift that is required to prevent translation from becoming a bottleneck to rapidly delivering software.
 
-## 4 things you've always wanted to know
+## 5 things you've always wanted to know
 * What is Continuous Delivery?
+* Why Continuous Delivery? 
 * How does this impact translation? 
 * What needs to change?
 * What can we learn from Continuous Delivery?
 
 ## What is Continuous Delivery?
 
-The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change to maximize their time to market and minimize the risk and cost associated with delivering new untested capability, and at the same time reach as broad a market as possible. To reach broader markets, though, requires solutions to be translated into the users' languages.
+The software industry has been in a revolution in the transformation from building software using waterfall and highly structured methodologies to more lean, agile, and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change.   
 
-The need to spend a lot of time and money on translation is often in direct opposition with the desire to minimize the overall cost in creating applications. This is especially apparent when new capabilities are being delivered that are unknown as to whether they will be liked, accepted, and used in the marketplace. 
+Development teams do this by continuously deploying small functional increments of their product in short time boxed iterations that are commonly known as 'sprints' and having people test it through actual deployed use. Teams use the feedback of these users to create the next incremental capability that is also deployed as early as possible. 
 
-Development teams do this by continuously deploying small functional increments of their product in short time boxed iterations that are commonly known as 'sprints' and having people test it through actual deployed use. Teams use the feedback of these users to create the next incremental capability that is also deployed as early as possible. The effect of this is that instead of spending months to create a huge software release, teams deploy small frequent updates, sometimes multiple times a day. 
+## Why Continuous Delivery? 
+
+The effect of this is that instead of spending months to create a huge software release, teams deploy small frequent updates, sometimes multiple times a day. The advantages of taking this new approach to software development have proven to be:
+
+* Minimize the time to market 
+Obviously, business value increases with every day an application is on the market sooner. The sooner you can start selling your product, the sooner it will bring in money.  
+and therefore increase business value: the sooner something is deployed, the earlier you can start benefitting from users 
+* Minimize the risk and cost
+The chance that your application will be more succesful increases. This is because, in early stages of product development, user feedback is used to see whether new capabilities will be liked, accepted, and used in the marketplace. This prevents costly development to take place on functionalities that will never be used; as has happened with 80% of the functionalities that were developed in the waterfall processes.
 
 ## How does this impact translation?
+
+To reach broader markets requires solutions to be translated into the users' languages. The need to spend a lot of time and money on translation is often in direct opposition with the desire to minimize the overall cost in creating applications. This is especially apparent when new capabilities are being delivered that are unknown as to whether they will be developed further.
 
 This approach is completely at odds with today’s translation and localization processes.
 
