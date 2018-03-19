@@ -50,23 +50,25 @@ This new way of working now requires us to rethink how translation fits into mod
 
 This means that for teams to be able to capture the wider marketplace beyond English, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously.  
 
-## What can we learn from Continuous Delivery?
+## What can we learn from Agile software development?
 
-* Maximize the work not done. 
+Many principles of agile methodologies in software development can be transferred to translation processes in order to comply to the current need for speed. 
+
+_Maximize the work not done_ 
 
 The notion of translation quality is substantially changing from creating the most accurate translation to creating the translation that has the 'most value'. The value is defined by the combination of usability and time to market. Clearly define the quality criteria needed in order to achieve 'minimally viable products' across the supported languages. 
 
 It is important to understand that the notion of 'quality' is highly fluid and can vary across both functional features as well as across languages. Also, realize that the first version of a translation that merely complies with the speed asked for by the Continuous Delivery process may only live up to minimal quality criteria and differ from the final version of the translations. 
 
-* Create and empower multidisciplinary teams
+_Create and empower multidisciplinary teams_
 
 Include the translators in the team so they can participate in how the goals are to be reached when it comes to multilingual deployment and they are aware of the capabilities that are to be translated.
 
-* Embrace change
+_Embrace change_
 
 Make sure change is at the core of your process. Content is dynamic and the need to consolidate the source before starting translation unnecessarily delays deployment.
 
-* Constantly solicit feedback 
+_Constantly solicit feedback_
 
 Don't be afraid to publish early versions of your translations. Test whether your content reaches your goals and make sure you can implement feedback easily and quickly.
 
