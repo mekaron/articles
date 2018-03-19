@@ -40,19 +40,17 @@ As in a continuous delivery cycle, the value of what is released is largely dete
 
 ## What needs to change?
 
-This new way of working now requires us to rethink how translation fits into modern development strategies. 
-
-Software companies are looking to transition away from big distributed development teams to smaller co-located teams that can operate as a single cohesive unit. This means that for teams to be able to capture the wider marketplace beyond their local language, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. Translators now need to take on new roles that extend beyond simple translation:
+This new way of working now requires us to rethink how translation fits into modern development strategies. Translators need to take on new roles that extend beyond pure translation:
 
 * Translators need to quickly determine and understand the context of an application without having to engage the software development team in lengthy training sessions. 
 
-* Translators now need to decide how and when to make use of machine translation and quality levels needed in order to reach the goal of the content. 
+* Translators now need to decide how and when to make use of machine translation and quality criteria needed in order to reach the goal of the content. 
 
 * Translators also need to collect and provide early feedback to the development team as it relates to UI design and linguistic implications of features and capabilities.
 
+This means that for teams to be able to capture the wider marketplace beyond English, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. 
 
 ## What can we learn from Continuous Delivery?
-
 
 * Maximize the work not done. The notion of translation quality is substantially changing from creating the most accurate translation to creating the translation that has the 'most value'. The value is defined by the combination of usability and time to market. 
 
