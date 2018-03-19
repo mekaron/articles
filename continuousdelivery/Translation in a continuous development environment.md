@@ -21,9 +21,11 @@ Development teams do this by continuously deploying small functional increments 
 The effect of this is that instead of spending months to create a huge software release, teams deploy small frequent updates, sometimes multiple times a day. The advantages of taking this new approach to software development have proven to be:
 
 * Minimize the time to market 
+
 Obviously, business value increases with every day an application is on the market sooner. The sooner you can start selling your product, the sooner it will bring in money.  
-and therefore increase business value: the sooner something is deployed, the earlier you can start benefitting from users 
+
 * Minimize the risk and cost
+
 The chance that your application will be more succesful increases. This is because, in early stages of product development, user feedback is used to see whether new capabilities will be liked, accepted, and used in the marketplace. This prevents costly development to take place on functionalities that will never be used; as has happened with 80% of the functionalities that were developed in the waterfall processes.
 
 ## How does this impact translation?
