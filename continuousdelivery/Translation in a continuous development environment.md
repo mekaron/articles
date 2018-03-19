@@ -1,4 +1,4 @@
-# The 5 questions you want to be able to answer about translation in a continuous delivery environment
+# How to survive multilingual continuous delivery: 5 questions answered
 
 ## Goal
 This article aims to give insight on the impact on localization and translation processes when software is deployed continuously and addresses the paradigm shift that is required to prevent translation from becoming a bottleneck to rapidly delivering software.
