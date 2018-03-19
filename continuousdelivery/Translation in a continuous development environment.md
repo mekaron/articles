@@ -25,11 +25,11 @@ The advantages of taking this new approach to software development have proven t
 
 _Minimize the time to market_ 
 
-Obviously, business value increases with every day an application is on the market sooner. The sooner you can start selling your product, the sooner it will bring in money.  
+Business value increases with every day an application is on the market sooner. The sooner you can start selling your product, the sooner it will bring in money.  
 
 _Minimize the risk and cost_
 
-The chance that your application will be more succesful increases. This is because, in early stages of product development, user feedback is used to see whether new capabilities will be liked, accepted, and used in the marketplace. This prevents costly development to take place on functionalities that will never be used; as has happened with 80% of the functionalities that were developed in the waterfall processes.
+The chance that your application will be more succesful increases. This is because, in early stages of product development, user feedback is used to see whether new capabilities will be liked, accepted, and used in the marketplace. This prevents costly development to take place on functionalities that will never be used, as has happened with 80% of software features that were developed in the waterfall processes.
 
 ## How does this impact translation?
 
