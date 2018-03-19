@@ -32,12 +32,11 @@ The chance that your application will be more succesful increases. This is becau
 
 To reach broader markets requires solutions to be translated into the users' languages. The need to spend a lot of time and money on translation is often in direct opposition with the desire to minimize the overall cost in creating applications. This is especially apparent when new capabilities are being delivered that are unknown as to whether they will be developed further.
 
-This approach is completely at odds with today’s translation and localization processes.
+The agile approach to software development is completely at odds with today’s translation and localization processes.
 
-In a traditional waterfall development process translation and localization was often delayed until near product release. User interfaces and most product documentation was generally frozen close to final completion before translation would even begin. The translation phase typically became a bottleneck for delivery as this process would often take many iterations and require deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. This meant that a release, though already completed in English, would still take several weeks or months before the translations would be complete, thereby delaying the overall release time of the application. 
+In a traditional waterfall development process translation and localization is often delayed until near product release. User interfaces and most product documentation is generally frozen close to final completion before translation even begins. The translation phase typically becomes a bottleneck for delivery as this process often takes many iterations and requires deep education by the translators to ensure that they had a proper understanding of the context of the application in order to properly translate and localize the software. This meant that the overall release time of new capabilities, though already completed in English, are delayed for several weeks or months, because translations are not yet done.
  
-In a continuous delivery cycle, the value of what is released is largely determined by the speed that it is deployed and delaying a product release because of translation is unacceptable. This means that translation and localization processes must adopt a continuous delivery model, just like software development processes have, and incrementally deliver translation with minimal human overhead. 
-
+As in a continuous delivery cycle, the value of what is released is largely determined by the speed that it is deployed, delaying a product release because of translation is unacceptable. This means that translation and localization processes must adopt a continuous delivery model, just like software development processes have, and incrementally deliver translation with minimal human overhead. 
 
 ## What needs to change?
 
