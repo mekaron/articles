@@ -48,19 +48,25 @@ This new way of working now requires us to rethink how translation fits into mod
 
 * Translators also need to collect and provide early feedback to the development team as it relates to UI design and linguistic implications of features and capabilities.
 
-This means that for teams to be able to capture the wider marketplace beyond English, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously. 
+This means that for teams to be able to capture the wider marketplace beyond English, translators now need to be viewed as peers in the development process rather than as simply external translation providers in order to quickly deliver capability across multiple languages simultaneously.  
 
 ## What can we learn from Continuous Delivery?
 
-* Maximize the work not done. The notion of translation quality is substantially changing from creating the most accurate translation to creating the translation that has the 'most value'. The value is defined by the combination of usability and time to market. 
+* Maximize the work not done. 
 
-* Create multidisciplinary teams. Define translation and localization as part of the 'Definition of Done' in your development sprints. Clearly define the quality goals needed in order to achieve 'minimally viable products' across the supported languages. It is important to understand that the notion of 'quality' is highly fluid and can vary across both functional features as well as across languages. 
+The notion of translation quality is substantially changing from creating the most accurate translation to creating the translation that has the 'most value'. The value is defined by the combination of usability and time to market. Clearly define the quality criteria needed in order to achieve 'minimally viable products' across the supported languages. It is important to understand that the notion of 'quality' is highly fluid and can vary across both functional features as well as across languages. Also, realize that the first version of a translation that merely complies with the speed asked for by the Continuous Delivery process may only live up to minimal quality criteria and differ from the final version of the translations. 
 
-* Empower the team and let the translators in the team participate in how the goals are to be reached when it comes to multilingual deployment.
+* Create multidisciplinary teams 
 
-* Embrace change. Make sure change is at the core of your process. Content is dynamic and the need to consolidate the source before starting translation unnecessarily delays deployment.
+Empower the translators in the team so they can participate in how the goals are to be reached when it comes to multilingual deployment.
 
-* Constantly solicit feedback. Don't be afraid to publish early versions of your translations. Test whether your content reaches your goals and make sure you can implement feedback easily and quickly.
+* Embrace change.
+
+Make sure change is at the core of your process. Content is dynamic and the need to consolidate the source before starting translation unnecessarily delays deployment.
+
+* Constantly solicit feedback. 
+
+Don't be afraid to publish early versions of your translations. Test whether your content reaches your goals and make sure you can implement feedback easily and quickly.
 
 
 ## Conclusion: a paradigm shift
