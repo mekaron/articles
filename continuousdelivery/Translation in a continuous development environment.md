@@ -1,4 +1,4 @@
-# When Speed and Quality Collide -- Translation in a Continuous Delivery Environment
+# The 5 questions you want to be able to answer about translation in a continuous delivery environment
 
 ## Goal
 This article aims to give insight on the impact on localization and translation processes when software is deployed continuously and addresses the paradigm shift that is required to prevent translation from becoming a bottleneck to rapidly delivering software.
