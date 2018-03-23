@@ -13,7 +13,7 @@ This article aims to give insight on the impact on localization and translation 
 
 ## What is Continuous Delivery?
 
-The software industry has been in a revolution in the transformation from building software using [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) and highly structured methodologies to more lean, [agile](https://en.wikipedia.org/wiki/Agile_software_development), and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change.   
+The software industry has been in a revolutionary transition from building software using [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) and highly structured methodologies to more lean, [agile](https://en.wikipedia.org/wiki/Agile_software_development), and highly fluid methodologies. Current methodologies look to release continuously and frequently deliver incremental change.   
 
 Development teams do this by continuously deploying small functional increments of their product in short time boxed iterations that are commonly known as 'sprints' and having people test it through actual deployed use. Teams use the feedback of these users to create the next incremental capability that is also deployed as early as possible. 
 
