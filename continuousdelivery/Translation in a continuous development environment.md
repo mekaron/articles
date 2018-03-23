@@ -1,5 +1,5 @@
 # How to survive multilingual continuous delivery
-_5 questions about agile translations_
+_the 5 essential questions about agile translations_
 
 ## Goal
 This article aims to give insight on the impact on localization and translation processes when software is deployed continuously and addresses the paradigm shift that is required to prevent translation from becoming a bottleneck to rapidly delivering software.
@@ -33,7 +33,7 @@ The chance that your application will be more succesful increases. This is becau
 
 ## How does this impact translation?
 
-This approach to software development is completely at odds with today’s translation and localization processes. To reach broader markets requires solutions to be translated into the users' languages. The need to spend a lot of time and money on translation is often in direct opposition with the desire to minimize the overall cost in creating applications. This is especially apparent when new capabilities are being delivered that are unknown as to whether they will be developed further.
+This approach to software development is completely at odds with today’s translation and localization processes. To reach broader markets requires software to be translated into the users' languages. The need to spend a lot of time and money on translation is often in direct opposition with the desire to minimize the overall cost in creating applications. This is especially apparent when new capabilities are being delivered that are unknown as to whether they will be developed further.
 
 In a traditional waterfall development process translation and localization is often delayed until near product release. User interfaces and most product documentation is generally frozen close to final completion before translation even begins. The translation phase typically becomes a bottleneck for delivery as this process often takes many iterations and requires deep education by the translators to ensure that they have a proper understanding of the context of the application in order to properly translate and localize the software. This means that the overall release time of new capabilities, though already completed in English, are delayed for several weeks or even months, because translations are not yet done.
  
@@ -79,6 +79,6 @@ For a lot of people that have been working in the translation and localization i
 
 What we need to realize is that the notion of quality is now more fluid. Our emphasis needs to shift to the concept of usability and the only people that can really tell you whether your content is usable, are your users. The crowd will tell you what you should be spending your scarce time and money on to maximize the user experience. 
 
-### Practice what you preach
+*_Practice what you preach_*
 Was this article useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the medium platform or contact the authors directly through LinkedIn. 
 
