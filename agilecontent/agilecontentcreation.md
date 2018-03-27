@@ -1,3 +1,7 @@
+# Goal
+
+This article aims to pitch the idea of using agile principles to authoring in order to facilitate collaboration and improve quality and time to market of (multilingual) content. 
+
 # Collaborative authoring made painless 
 
 Ever wrote a piece of text with blood, sweat and tears? Trying to make it perfect before you sent it to the editors or for peer review? Only to find that no matter how great you thought your article was, people always comes up with something to improve on your piece, sometimes with corrections that touch the core of your story? A very painful moment, which makes it hard for any normal human being to remain open to feedback and learning. 
@@ -25,9 +29,14 @@ The MVP is the version that contains all necessary information to be reviewed by
 * What are the advantages
 1. more structured writing
 2. less writer's blocks
-3. early feedback from editors and therefore a broader perspective
-4. less frustration when receiving feedback
-5. early involvement of translators in the case of multilingual content
+3. always a publishable version, so you can make the deadline even if you have underestimated the effect of hanging out in a bar the night before the deadline. 
+4. early feedback from editors and therefore a broader perspective
+5. less frustration when receiving feedback
+6. early involvement of translators in the case of multilingual content
+
+* What does an MVP look like? What should it contain?
+
+
 
 ## In case of multilingual content
 
