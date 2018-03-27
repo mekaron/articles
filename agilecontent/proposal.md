@@ -1,4 +1,4 @@
-# How agile principles can help you create better multilingual content
+# How translation can help you create better content
 
 # Goal of this article
 This talk aims to explain how applying agile principles to content creation and translation will significantly reduce waste and lead to a better end result. 
