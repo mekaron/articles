@@ -13,12 +13,12 @@ that translators have dealt to cope with, but that reduce their productivity sev
 ## The value of translators
 Moreover, and more importantly, translators can be seen as the first users of your content - and hardcore users. 
 They will notice issues that the authors have not thought of when writing or editing, 
-simply because translators dive into the matter more thoroughly than anyone else. In the current translation ecosystem, there is no efficient infrastructure for translators to express their valuable feedback and it is often seen as 'complicated and disturbing'. 
+simply because translators dive into the matter more thoroughly than anyone reader. In the current translation ecosystem, there is no efficient infrastructure for translators to express their valuable feedback and it is often seen as 'complicating things and disturbing'. 
 
 ## What can we solve if we combine this? 
 The obvious answer: including translators in the authoring process will not only improve the quality of your translations, 
 but will also impact the quality of your source content. However, for this to work well, the authoring process needs to be adjusted: to a more collaborative, iterative process that allows all contributors to give feedback on publishable, eventhough not finished versions. 
 
-But how to go about this? Often, collaboration is seen as a time-consuming, expensive addition to writing on your own. So how do you make sure collaboration does not lead to frustration and actually leads to faster publishing, more feedback from your users AND early involvement and empowerment of your translators?
+But how to go about this? Often, translating earlier versions is seen as a time-consuming, expensive addition to translating after the article is done. So how do you make sure collaboration with translators leads to more value and to faster publishing, more feedback from your users AND early involvement and empowerment of your translators?
 
-In this talk I will explain how a paradigm shift towards taking a more agile and collaborative approach on authoring and translation will free you of waste in content creation and translation.
+For this we need take another perspective on collaborative writing, using agile principles from software development. In this talk I will explain how a paradigm shift towards taking a more agile and collaborative approach on authoring and translation will free you of waste in content creation and translation.
