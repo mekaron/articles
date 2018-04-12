@@ -29,6 +29,7 @@ In authoring the MVP stands for 'minimal valuable publication'. The MVP is the v
 * What are the advantages
 
 1. More structured writing
+
 Often, in trying to achieve a 'ready for the world' publication, people tend to spend a lot of time on phrasing and rephrasing what they would like to say. Especially for the MVP, but possibly for all versions of your publication, having a good story is more effective than creating a perfect text. 
 
 In order to create the MVP you have to stay true to the principle in mind of 'maximizing the work not done'. Do the work that is necessary to make your piece valuable, but do not fall into the trap of wanting to make it perfect. 
