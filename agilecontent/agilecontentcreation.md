@@ -24,14 +24,19 @@ The improvements on the MVP on the basis of the feedback that constitute a new d
 
 * How does this relate to authoring?
 
-In authoring the MVP stands for 'minimal valuable publication'. The MVP is the version that contains all necessary information to be valuable to peers and/or users. On the basis of their feedback, iterations can be made, which may, for instance, lead to publication to a greater audience. 
+In authoring the MVP stands for 'minimal valuable publication'. The MVP is the version that contains all necessary information to be valuable to peers and/or users. On the basis of their feedback, iterations can be made, which may, for instance, lead to publication to a greater audience or merely a piece that is more effective. 
 
 * What are the advantages
 
 1. More structured writing
+Often, in trying to achieve a 'ready for the world' publication, people tend to spend a lot of time on phrasing and rephrasing what they would like to say. Especially for the MVP, but possibly for all versions of your publication, having a good story is more effective than creating a perfect text. 
 
+In order to create the MVP you have to stay true to the principle in mind of 'maximizing the work not done'. Do the work that is necessary to make your piece valuable, but do not fall into the trap of wanting to make it perfect. 
 
 2. less writer's blocks
+
+
+
 3. always a publishable version, so you can make the deadline even if you have underestimated the effect of hanging out in a bar the night before the deadline. 
 4. early feedback from editors and therefore a broader perspective
 5. less frustration when receiving feedback
