@@ -32,12 +32,11 @@ In authoring the MVP stands for 'minimal valuable publication'. The MVP is the v
 
 Often, in trying to achieve a 'ready for the world' publication, people tend to spend a lot of time on phrasing and rephrasing what they would like to say. Especially for the MVP, but possibly for all versions of your publication, having a good story is more effective than creating a perfect text. 
 
-In order to create the MVP you have to stay true to the principle in mind of 'maximizing the work not done'. Do the work that is necessary to make your piece valuable, but do not fall into the trap of wanting to make it perfect. 
+In order to create the MVP you have to stay true to the principle of 'maximizing the work not done'. Do the work that is necessary to make your piece valuable, but do not fall into the trap of wanting to make it perfect. 
+
+If you do this, you will reach a complete story sooner, and the structure of your piece will not be cluttered with digressions.
 
 2. less writer's blocks
-
-
-
 3. always a publishable version, so you can make the deadline even if you have underestimated the effect of hanging out in a bar the night before the deadline. 
 4. early feedback from editors and therefore a broader perspective
 5. less frustration when receiving feedback
@@ -45,7 +44,7 @@ In order to create the MVP you have to stay true to the principle in mind of 'ma
 
 * What does an MVP look like? What should it contain?
 
-
+Your MVP should potentially reach the goal that you are aiming for with your content. At the intersection of maximizing the work not done and reaching your goal is where your MVP lies. And: don't forget to actually publish your MVP. No matter how hard it is to show people your process.  
 
 ## In case of multilingual content
 
@@ -54,19 +53,20 @@ In order to create the MVP you have to stay true to the principle in mind of 'ma
 At the very beginning. Translators can function as one of your peer reviewers, by translating your MVPs for a broader audience.
 
 * Why would you want to involve them so early?
-1. translators are power-users of your content
-2. early feedback from reviewers in several languages
-3. better and faster translations: real time translation of your publications  
+
+1. translators are power-users of your content and will therefore provide you with valuable feedback on your source content. 
+2. early feedback from reviewers in several languages and therefore broader focus groups and insight in cultural differences
+3. better and faster translations: Translating as you go will give you an almost real time translation of your publications  
 
 * Isn't that expensive?
 
-No. 
+# No. 
 
 Because:
-1. it will save you a reviewer
-2. it will make your content more valuable
-3. it will make your translation more valuable
-4. you will speed up your time to market 
+1. you will speed up your time to global markets
+2. it will save you a reviewer
+3. it will make your content more valuable
+4. it will make your translation more valuable
 5. if you have the right tools, and you source knowledgeable translators yourself, translation is not expensive. 
 
 * What do I need to do this?
