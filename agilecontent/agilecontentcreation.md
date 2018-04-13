@@ -12,7 +12,7 @@ Software developers have experienced this for decades. So many software projects
 
 In this article I propose to use the principles of agile software development and apply them to (multilingual) content creation.
 
-## MVP: Minimal Viable Publication
+## Publish your MVP: Minimal Viable Publication
 
 * What is an MVP? 
 
