@@ -1,14 +1,13 @@
 
 Title of innovation
-Translation: no more projects, but a continuous delivery process
-
+No more translation projects: let's move to continuous content delivery. 
 
 Description of innovation
 Until now, Continuous Delivery has been addressed as something that translation processes should be aligned with.
 But what happens if we start looking at translation projects as a continuous delivery process as well and take all of the learnings from the software industry and apply them to translation? 
 
 Why is this a good/innovative solution 
-The notion of 'maximizing the work not done', defining an mvp (minimal viable publication) and relying on user feedback for iterating on it will, just like in software development, minimize the risk and costs and time to market.
+The notion of 'maximizing the work not done', defining an mvp (minimal viable publication) and relying on user feedback on the entire product instead of the translation for iterating on it will minimize the risk and costs and time to market.
 
 How can others us it? – are there costs to this? (50 words or less)
 At first sight this might look like this will lead to an increase of translation costs, as the same translation will be revisited. 
@@ -18,19 +17,14 @@ Background - How did the need arise and how did you get to formulate a solution.
 As translation is usually an afterthought and dealt with in a waterfall method, working in the translation industry is often a stressful experience. 
 Comparing translations to software development has given lots of insights on how to deal with the speed/quality/costs triangle. 
 
-
 Is it already being used in "real life/work" setting? Please explain. (30 words or less)
 We are implementing this process right now in our current assignment, where there is a tight deadline and not all content is viewed as extensively. 
 
-
-
-
 How can it be used by others? (50 words or less)
-Make sure you use sophisticated tooling, try to get rid of file transfer but use APIs and content repositories instead, manage your translation team directly instead of through an agency. 
+Make sure you use sophisticated tooling, try to get rid of file transfer but use APIs and content repositories instead. 
 Empower your translators and challenge them on the notion of 'maximizing the work not done'. 
-
-
+Don't review translations but use the product. 
 
 Is there a link to a presentation or video?
-Nope.
+No.
 
