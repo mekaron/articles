@@ -1,13 +1,19 @@
 
 Title of innovation
-An agile approach to multilingual content creation
+Treating translation as a continuous delivery process
 
 
 Description of innovation
+Continuous delivery of software has its impact on translation and has been the topic of a lot of talks in the localization industry.
+But what happens if we start looking at translation projects as a continuous delivery process as well and take all of the learnings from the software industry and apply them to translation? 
+
 
 Why is this a good/innovative solution 
-In the current translation ecosystem a lot of waste is introduced because of the waterfall nature of the translation process. No infrastructure or process is designed to feedback 
+Although everyone in general agrees that decreasing time to market for content is extremely valuable and even necessary, 
+the current translation processes are not designed to comply with that need. 
+The notion of 'maximizing the work not done' and relying on user feedback for iterating on your mvp (minimal viable publication) will, just like in software development, minimzie the risk and costs and increase time to market.  
 
+ 
 
 How can others us it? – are there costs to this? (50 words or less)
 
