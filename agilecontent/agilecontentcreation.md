@@ -36,6 +36,8 @@ And then: PUBLISH. Either to your collaborators, peers, or the world. Make sure 
 
 Make sure your readers, whether they are collaborators, peers and reviewers can give their feedback in a shared tool, preferably with excellent version control and always in the cloud. If you can get a conversation between your readers going, you know you're onto something good!
 
+But no, you're not done yet. Publishing is not the end, it is the beginning. Iterate until you feel your goals have been met and your focus group agrees. 
+
 ### What are the advantages
 
 1. More structured writing and less writer's blocks
