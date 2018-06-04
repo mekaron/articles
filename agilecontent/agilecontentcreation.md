@@ -14,15 +14,15 @@ In this article I propose to use the principles of agile software development an
 
 ## Publish your MVP and get feedback: Minimal Viable Publication
 
-* What is an MVP? 
+### What is an MVP? 
 
 In software development, an MVP stands for minimal viable product and is the name for the first version of a product that has value and could be deployed. In authoring the MVP stands for 'minimal valuable publication'. The MVP is the version that contains all necessary information to be valuable to peers and/or users. On the basis of their feedback, iterations can be made, which may, for instance, lead to publication to a greater audience or merely a piece that is more effective. 
 
-* What are iterations
+### What are iterations
 
 The improvements on the MVP on the basis of the feedback that constitute a new deployable product
 
-* How does this work? 
+### How does this work? 
 
 The goal of your MVP is to see whether the topic is of any interest to anyone, and to make sure you are getting the point across that you want to make. What is necessary to reach this goal is dependent on your focus group, and how willing they are to provide you with feedback.
 
@@ -36,7 +36,7 @@ And then: PUBLISH. Either to your collaborators, peers, or the world. Make sure 
 
 Make sure your readers, whether they are collaborators, peers and reviewers can give their feedback in a shared tool, preferably with excellent version control and always in the cloud. If you can get a conversation between your readers going, you know you're onto something good!
 
-* What are the advantages
+### What are the advantages
 
 1. More structured writing and less writer's blocks
 
