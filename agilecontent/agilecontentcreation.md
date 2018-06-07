@@ -73,16 +73,16 @@ At the very beginning. Translators can function as one of your peer reviewers, b
 
 * Isn't that expensive?
 
-# No. 
+Let me ask you something else. Is it not expensive to work on a piece of content for a long time and then have someone translate and it just doesn't sound as good as your original piece. Isn't that a waste of valuable time and therefore money?
 
+The only way you can reassure yourself of a high quality translation is to collaborate with your translator. Make him/her part of your thoughts, of your process. A nice side-effect is that you don't have to allocate any translation time: you will have a translation at merely the same time as your source is final. 
 
+So what happens if you take this approach: 
 
-Because:
 1. you will speed up your time to global markets
-2. it will save you a reviewer
-3. it will make your content more valuable
-4. it will make your translation more valuable
-5. if you have the right tools, and you source knowledgeable translators yourself, translation is not expensive. 
+2. it will make your content more valuable
+3. it will make your translation more valuable
+4. if you have the right tools, and you source knowledgeable translators yourself, translation is not expensive. Translating as you go is less expensive that paying a translator a rush fee.
 
 * What do I need to do this?
 1. version control and a reviewing workflow on your source text; e.g. through GitHub
