@@ -54,9 +54,6 @@ If you do this, you will reach a complete story sooner, and the structure of you
 5. less pain when receiving feedback
 6. early involvement of translators in the case of multilingual content
 
-
-
-* What should you do differently?
 Don't be afraid to actually publish your MVP, either to a focus group, or just to the world. No matter how hard it is to show people your process.  
 
 ## In case of multilingual content
