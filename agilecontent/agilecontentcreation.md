@@ -22,7 +22,7 @@ In software development, an MVP stands for minimal viable product and is the nam
 
 The improvements on the MVP on the basis of the feedback that constitute a new deployable product
 
-### How does this work? 
+### How does iterative authoring work? 
 
 The goal of your MVP is to see whether the topic is of any interest to anyone, and to make sure you are getting the point across that you want to make. What is necessary to reach this goal is dependent on your focus group, and how willing they are to provide you with feedback.
 
