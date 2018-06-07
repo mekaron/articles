@@ -61,17 +61,17 @@ Don't be afraid to actually publish your MVP, either to a focus group, or just t
 
 ## In case of multilingual content
 
-* When do translators come in?
+### When do translators come in?
 
 At the very beginning. Translators can function as one of your peer reviewers, by translating your MVPs for a broader audience.
 
-* Why would you want to involve them so early?
+### Why would you want to involve them so early?
 
 1. translators are power-users of your content and will therefore provide you with valuable feedback on your source content. 
 2. early feedback from reviewers in several languages and therefore broader focus groups and insight in cultural differences
 3. better and faster translations: Translating as you go will give you an almost real time translation of your publications. Quality emerges from collaboration and commitment.  
 
-* Isn't that expensive?
+### Isn't that expensive?
 
 Let me ask you something else. Is it not expensive to work on a piece of content for a long time and then have someone translate and it just doesn't sound as good as your original piece. Isn't that a waste of valuable time and therefore money?
 
@@ -84,7 +84,7 @@ So what happens if you take this approach:
 3. it will make your translation more valuable
 4. if you have the right tools, and you source knowledgeable translators yourself, translation is not expensive. Translating as you go is less expensive that paying a translator a rush fee.
 
-* What do I need to do this?
+### What do I need to do this?
 1. version control and a reviewing workflow on your source text; e.g. through GitHub
 2. translation environment, supported by Machine Translation, but only if it supports predictive writing 
 3. Very good processes and knowledgeable collaborators
