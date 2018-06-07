@@ -48,10 +48,10 @@ In order to create the MVP you have to stay true to the principle of 'maximizing
 
 If you do this, you will reach a complete story sooner, and the structure of your piece will not be cluttered with digressions.
 
-2. faster publishing - less risk
+2. faster publishing - less risk, more value
 3. always a publishable version, so you can make the deadline even if you have underestimated the effect of hanging out in a bar the night before the deadline. 
 4. early feedback from editors and therefore a broader perspective
-5. less frustration when receiving feedback
+5. less pain when receiving feedback
 6. early involvement of translators in the case of multilingual content
 
 
