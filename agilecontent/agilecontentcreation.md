@@ -51,7 +51,7 @@ If you do this, you will reach a complete story sooner, and the structure of you
 2. faster publishing - less risk, more value
 3. always a publishable version, so you can make the deadline even if you have underestimated the effect of hanging out in a bar the night before the deadline. 
 4. early feedback from editors and therefore a broader perspective
-5. less pain when receiving feedback
+5. less pain when receiving feedback - the smaller the text the easier it is to incorporate even small changes
 6. early involvement of translators in the case of multilingual content
 
 Don't be afraid to actually publish your MVP, either to a focus group, or just to the world. No matter how hard it is to show people your process.  
@@ -81,7 +81,7 @@ So what happens if you take this approach:
 3. it will make your translation more valuable
 4. if you have the right tools, and you source knowledgeable translators yourself, translation is not expensive. Translating as you go is less expensive that paying a translator a rush fee.
 
-### What do I need to do this?
+### What do I need to enable collaborative translations? 
 1. version control and a reviewing workflow on your source text; e.g. through GitHub
 2. translation environment, supported by Machine Translation, but only if it supports predictive writing 
 3. Very good processes and knowledgeable collaborators
