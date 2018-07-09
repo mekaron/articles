@@ -15,7 +15,7 @@ When applying an agile mindset, life is all about knowing that you will be wrong
 
 ### What is an MVP? 
 
-In software development, MVP stands for Minimal Viable Product and is the name for the first version of a product that has value and could be deployed to users. On the basis of their feedback, iterations can be made, which will improve the quality of your piece. But in the meantime, it has brought value before being perfect or complete. 
+In software development, MVP stands for Minimal Viable Product and is the name for the first version of a product that has value and could be deployed to users. On the basis of their feedback, developers iterate on the first version, which will improve the aspects the users value most. And in the meantime, it has brought value before being perfect or complete. 
 
 In authoring the MVP stands for 'Minimal Viable Publication'. This MVP is the version that contains all necessary information to be potentially valuable to collaborators and/or readers and can therefore trigger feedback.
 
