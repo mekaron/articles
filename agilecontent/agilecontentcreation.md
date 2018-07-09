@@ -28,11 +28,11 @@ When you start writing, you start with determining the goal of your publication.
 
 Then, make a first version really fast, that outlines your ideas. Your MVP should potentially reach the goal that you are aiming for with your content. At the intersection of maximizing the work not done and potentially reaching your goal is where your MVP lies. 
 
-The goal of your MVP can be a number of things: it can be to see whether the topic is of any interest to anyone, to test whether your content is indeed answering to the goal you are trying to achieve and/or to get as much information from your collaborators or users in order to improve on your content. 
+The goal of your MVP can be a number of things: it can be to see whether the topic is of any interest to anyone, to test whether your content is indeed answering to the goal you are trying to achieve and/or to get as much information from your collaborators or users in order to improve on your content. When you are working collaboratively with other authors and/or editors, the MVP can be even just an outline of what you are trying to convey. 
 
-When you are working collaboratively with other authors and/or editors, the MVP can be just an outline of what you are trying to convey. When you are publishing to the world, you might want to make the piece a bit more attractive by adding a picture and an appealing title, so that people are inclined to read your piece.
+Just like in software development, your MVP must be a tiny slice of your entire product. So make sure your story is done, and ready to be elaborated on. 
 
-And then: PUBLISH. Either to your collaborators, peers, or the world. Make sure you get the feedback you need. Ask people very specific questions about whether it is reaching the goal you have in mind.  
+And then: PUBLISH early in order to succeed sooner. Either to your collaborators, peers, or the world. Make sure you get the feedback you need. Ask people very specific questions about whether it is reaching the goal you have in mind.  
 
 Make sure your readers, whether they are collaborators, peers and reviewers can give their feedback in a shared tool, preferably with excellent version control and always in the cloud. If you can get a conversation between your readers going, you know you're onto something good!
 
@@ -49,12 +49,29 @@ In order to create the MVP you have to stay true to the principle of 'maximizing
 If you do this, you will reach a complete story sooner, and the structure of your piece will not be cluttered with digressions.
 
 2. faster publishing - less risk, more value
-3. always a publishable version, so you can make the deadline even if you have underestimated the effect of hanging out in a bar the night before the deadline. 
+
+If, by any chance, your content is not interesting, useless or plain faulty this is painful. But it's better to know before you spent a lot of hours (not) working on it. 
+
+3. always a publishable version, so you can make the deadline at any time.
+
+Although you probably would rather spend much more time on your piece, there comes a time where you can do no more. In this way of working there is a publishable version at all times so that getting tired of your own piece does not lead to a version that is half-done. 
+
 4. early feedback from editors and therefore a broader perspective
-5. less pain when receiving feedback - the smaller the text the easier it is to incorporate even small changes
+
+Information is too abundant to see and know everything. The crowd is always right, and always smarter than you. Yes, also than you.
+
+5. less pain when receiving feedback 
+
+The less effort, the less pain when it turns out to be not entirely what someone wanted to hear or to finds useful. And the bigger the chance that you'll have energy left to actually incorporate feedback
+
 6. early involvement of translators in the case of multilingual content
 
-The key to agile publishing is that it is not the end result that counts. It's the process of collaboration that will determine the value of your work. 
+Quality of translation is determined for 90% by translators being involved. Presenting them with a final version and expecting them to understand what you have gone through is hardly ever effective. 
 
+## Most important to realize
+The key to agile publishing is that it is not the end result that counts. It's the process of collaboration that will determine the value of your work. After all, writing something perfect that nobody reads is less valuable than writing something effective that people are involved in and can be inspired by. 
 
+### Practice what you preach
+
+Was this article in this form useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the LinkedIn platform or contact the authors directly.
 
