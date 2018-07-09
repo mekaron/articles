@@ -16,7 +16,7 @@ In this article I propose to use the principles of agile software development an
 
 ### What is an MVP? 
 
-In software development, an MVP stands for minimal viable product and is the name for the first version of a product that has value and could be deployed. In authoring the MVP stands for 'minimal valuable publication'. The MVP is the version that contains all necessary information to be valuable to peers and/or users. On the basis of their feedback, iterations can be made, which may, for instance, lead to publication to a greater audience or merely a piece that is more effective. 
+In software development, an MVP stands for minimal viable product and is the name for the first version of a product that has value and could be deployed. In authoring the MVP stands for 'minimal valuable publication'. The MVP is the version that contains all necessary information to be potentially valuable to peers and/or users AND that can trigger feedback. On the basis of their feedback, iterations can be made, which may, for instance, lead to publication to a greater audience or merely a piece that is more effective. 
 
 ### What are iterations
 
@@ -24,11 +24,11 @@ The improvements on the MVP on the basis of the feedback that constitute a new d
 
 ### How does iterative authoring work? 
 
-The goal of your MVP is to see whether the topic is of any interest to anyone, and to make sure you are getting the point across that you want to make. What is necessary to reach this goal is dependent on your focus group, and how willing they are to provide you with feedback.
+When you start writing, you start with determining the goal of your publication. If you have not set a goal, the purpose of your piece is unclear, and the feedback will not help you to determine whether your goal was reached. 
 
-When you start writing, you start with the goal of your publication. If you have not set a goal, the purpose of your piece is unclear, and the feedback will not help you to determine whether your goal was reached. 
+Then, make a first version really fast, that outlines your ideas. Your MVP should potentially reach the goal that you are aiming for with your content. At the intersection of maximizing the work not done and potentially reaching your goal is where your MVP lies. 
 
-Then, make a first version really fast, that outlines your ideas. Your MVP should potentially reach the goal that you are aiming for with your content. At the intersection of maximizing the work not done and reaching your goal is where your MVP lies. 
+The goal of your MVP can be a number of things: it can be to see whether the topic is of any interest to anyone, to test whether your content is indeed answering to the goal you are trying to achieve and/or to get as much information from your collaborators or users in order to improve on your content. 
 
 When you are working collaboratively with other authors and/or editors, the MVP can be just an outline of what you are trying to convey. When you are publishing to the world, you might want to make the piece a bit more attractive by adding a picture and an appealing title, so that people are inclined to read your piece.
 
@@ -54,7 +54,7 @@ If you do this, you will reach a complete story sooner, and the structure of you
 5. less pain when receiving feedback - the smaller the text the easier it is to incorporate even small changes
 6. early involvement of translators in the case of multilingual content
 
-Don't be afraid to actually publish your MVP, either to a focus group, or just to the world. No matter how hard it is to show people your process.  
+The key to agile publishing is that it is not the end result that counts. It's the process of collaboration that will determine the value of your work. 
 
 ## In case of multilingual content
 
