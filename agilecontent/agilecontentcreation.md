@@ -1,6 +1,6 @@
 # Goal
 
-This article aims to pitch the idea of using agile principles to authoring in order to facilitate collaboration and improve quality and time to market of (multilingual) content. 
+This article aims to pitch the idea of using agile principles to authoring in order to facilitate collaboration and improve quality and time to market of your content creation process. 
 
 # Collaborative authoring made painless 
 
