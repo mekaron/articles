@@ -73,5 +73,5 @@ The key to agile publishing is that it is not the end result that counts. It's t
 
 ### Practice what you preach
 
-Was this article in this form useful to you? Do you have any questions? What else would you like to know? How can we improve the usability of this article? Your feedback is invaluable to us. Please share it through the LinkedIn platform or contact the authors directly.
+Was this article in this form useful to you? Do you have any questions? What else would you like to know? How can I improve the usability of this article? Your feedback is invaluable. Please share it through this platform or contact the author directly.
 
