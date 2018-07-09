@@ -15,7 +15,7 @@ When applying an agile mindset, life is all about knowing that you will be wrong
 
 ### What is an MVP? 
 
-In software development, MVP stands for Minimal Viable Product and is the name for the first version of a product that has value and could be deployed to users. On the basis of their feedback, iterations can be made, which will improve the quality of your piece. But in the meantime, it has brought value before being perfect or complete. 
+In software development, MVP stands for Minimal Viable Product and is the name for the first version of a product that has value and could be deployed to users. On the basis of the user feedback, developers iterate on the first version, which will improve the aspects the users value most. And in the meantime, it has brought value before being perfect or complete. 
 
 In authoring the MVP stands for 'Minimal Viable Publication'. This MVP is the version that contains all necessary information to be potentially valuable to collaborators and/or readers and can therefore trigger feedback.
 
@@ -25,7 +25,7 @@ In authoring the MVP stands for 'Minimal Viable Publication'. This MVP is the ve
 When you start writing, you start with determining the goal of your publication. If you have not set a goal, the purpose of your piece is unclear, and the feedback will not help you to determine whether your goal was reached. 
 
 ### _Make an outline_
-Then, you make a first version really fast, that outlines your ideas. Your MVP should potentially reach the goal that you are aiming for with your content.  Just like in software development, your MVP must be a slice of your eventual product. So your whole story must be done, but at this stage, only in a minimal form. In order to create the MVP you have to stay true to the principle of 'maximizing the work not done'. At the intersection of maximizing the work not done and potentially reaching your goal is where your MVP lies. Do the work that is necessary to make your piece valuable, but do not fall into the trap of wanting to make it perfect.
+Make a first version really fast, that outlines your ideas. Your MVP should potentially reach the goal that you are aiming for with your content.  Just like in software development, your MVP must be a slice of your eventual product. So your whole story must be done, but at this stage, only in a minimal form. In order to create the MVP you have to stay true to the principle of 'maximizing the work not done'. At the intersection of maximizing the work not done and potentially reaching your goal is where your MVP lies. Do the work that is necessary to make your piece valuable, but do not fall into the trap of wanting to make it perfect.
 
 ### _Publish_
 Once this is done: PUBLISH. Fail early in order to succeed sooner. Show your content either to your collaborators, peers, or the world. Make sure you get the feedback you need. Ask people very specific questions about whether it is reaching the goal you have in mind.  
@@ -36,9 +36,9 @@ With this MVP you can test a number of things: this can be to see whether the to
 Make sure your readers, whether they are collaborators, peers or reviewers can give their feedback in a shared tool, preferably with excellent version control and always in the cloud. If you can get a conversation between your readers going, you know you're onto something good!
 
 ### _Iterate_
-And then, it's only just begun. Publishing is not the end, it is the beginning. Don't ever stop iterating on the basis of the feedback, even when your content was published years ago. Isn't that the fun thing of online content! Building on the previous version of your content with new ideas, while still maintaining the same goal, will keep your content up to date without having to write new content all the time. 
+And then, it's only just begun. Publication is not the end, it is the beginning. Don't ever stop iterating on the basis of the feedback, even when your content was published years ago. Isn't that the fun thing of online content! Building on the previous version of your content with new ideas, while still maintaining the same goal, will keep your content up to date without having to write new content all the time. 
 
-## What are the advantages
+## What are the advantages?
 
 1. More structured writing and less writer's blocks
 
@@ -48,7 +48,7 @@ If you follow the steps above, you will reach a complete story sooner, and the s
 
 2. Faster publishing - less risk, more value
 
-If, by any chance, your content is not interesting, useless or plain faulty this is painful. But it's better to know before you spent a lot of hours (not) working on it. 
+If it so happens that your content is not interesting, useless or plain faulty this is painful. But it is better to know before you spent a lot of hours (not) working on it. 
 
 3. Always a publishable version, so you can make the deadline at any time.
 
