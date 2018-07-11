@@ -60,10 +60,30 @@ If you only receive feedback on your final piece it is almost impossible to stay
 
 And if you think that you will be able to do this by yourself, think again. Information is too abundant to see and know everything. The crowd is always right, and always smarter than you. Yes, also than you.
 
+## Sounds easy? Here's reality.
+Although this may sound almost too easy, it is not. Knowing when to publish is a learning process on its own, and you can only learn by publishing too early. If you feel comfortable about your publication, you have published it too late. 
+
+While writing this piece, I tried to follow my own rules, again. Here is what happened to me this time. 
+
+* I made the outline
+* I sent to a friend
+* I got his feedback
+* I started elaborating on one of the bullets in the outline
+* I continued to elaborate on this one bullet
+* I stopped working on it
+
+What I had done is that I had transformed my piece from a far from perfect, but 'done' version to a half-done, unpublishable version. And got lost in the process of perfectioning. 
+
+Three months later, I mentioned my article to someone and sent it over. His feedback got me back on track and then, when I got stuck, I figured I'd just publish. And got, again, valuable feedback which led to this current article. 
+
+I'm at the fourth iteration now, adding this personal piece, which is quite challenging and which I am again afraid to publish, but as you can see, I have. 
+
+It tells me that showing your process is so scary, but also so much fun. I hope it inspires you to show your process and smile at it. 
+
 ## Most important to realize
 The key to agile publishing is that it is not the end result that counts. It's the process of collaboration that will determine the value of your work. After all, writing something perfect that nobody reads is less valuable than writing something effective that people are involved in and can be inspired by. 
 
 ### Practice what you preach
 Was this article in this form useful to you? Do you have any questions? What else would you like to know? How can I improve the usability of this article? Your feedback is invaluable. Please share it through this platform.
 
-This article has evolved to its current form because of the valuable input and feedback of Isaac, Jeroen, Wouter, Leon and Boris and everyone in the comments (tbd). Thank you very much!
+This article has evolved to its current form because of the valuable input and feedback of Isaac, Jeroen, Wouter, Leon, Jeremy and Boris. Thank you very much!
