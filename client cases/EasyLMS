@@ -1,0 +1,44 @@
+How a translation process can drive innovation in the help center
+
+
+thesis: door de bottlenecks in de vertaling te bekijken zie je opeens de bottlenecks in de creatie van content
+
+
+inleiding:
+- EasyLMS is een bedrijf dat zeer getraind is in het toepassen van continuous process improvement en het opzetten van PDCA cycles. 
+Is flexibel en houdt ervan de root cause te vinden en op te lossen, in plaats van doekjes voor het bloeden. 
+Deze aanpak heeft ze in korte tijd gebracht tot de best beoordeelde LMS-en van de wereld, bijvoorbeeld door softwareworld. 
+- quick scan over meertaligheid
+- vraag: we weten dat we willen vertalen (self service, hogere conversie) maar we vrezen voor de ROI en uitvoerbaarheid. Help!
+
+
+Verrassing: 
+Uit de quick scan kwamen de volgende bottlenecks naar boven: 
+- de helpartikelen in de brontaal bevatten screenshots. Deze worden handmatig gemaakt. Dit is voor de 3 talen die in de eerste fase opgeleverd moeten worden al bijna niet te doen, laat staan als het gaat schalen naar de 25 talen waarin EasyLMS gepubliceerd wordt. 
+- de helpartikelen bevatten verwijzingen naar de applicatie in de tekst. Dit is een probleem voor machinevertalingen, 
+maar ook als je menselijke vertalers inzet moet je veel inregelen om ze van de juiste context te voorzien. 
+- De applicatie verandert voortdurend door de snelle doorlooptijd van releases. Het aanpassen van de content loopt voortdurend achter op 
+de snelheid van development. 
+
+uitkomst quick scan: 
+- Wens van hoge ROI, schaalbaarheid (van talen en hoeveelheid content) en snelheid is het voor deze casus bijna onvermijdelijk om met Machine Translation te werken. 
+Toevoegen van vertalers maakt het benodigde proces en de bijbehorende infrastructuur vele malen complexer. 
+- Tegelijk moet de content wel effectief zijn: self support helpdesk en hogere conversie. 
+ 
+Advies: 
+testen wat er gebeurt met de effectiviteit van de content als dit met top of the bill machinevertalingen gebeurt. 
+Wat zijn dan de bottlenecks en hoe is dit oplosbaar - zonder mensen toe te voegen aan het proces? 
+
+Oplossingen:  
+- automatisch video's en screenshots genereren van de software in elke taal en alleen algemene tekst, zonder verwijzing naar applicatie
+- bij feedback van users op de machinevertalingen de broncontent onder de loep nemen en niet de vertaling aanpassen
+
+Resultaat:
+- gaan we je nog vertellen! :)
+
+Conclusie:
+- de bottlenecks die je tegenkomt bij vertalen worden vaak opgelost door het vertaalproces aan te passen. Dit creert vaak onnodige complexiteit en levert 
+vervolgens ook nog niet het gewenste resultaat. 
+- door het gehele proces onder de loep te nemen - dat is dus inclusief het creeren van de content - en bij alle bottlenecks te onderzoeken wat de echte
+root cause is EN harde eisen te stellen aan de schaalbaarheid van het proces, kom je tot creatieve ideeen die niet alleen leiden tot verbeteringen in je vertaalproces,
+maar tot een snel en schaalbaar proces voor de gehele meertalige contentcreatie. 
