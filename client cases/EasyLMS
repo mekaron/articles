@@ -13,11 +13,73 @@ Obviously, in these times where COVID-19 is causing a huge demand for online tra
 This growth in usage has also had its impact on the support department of EasyLMS. Their aim is to have most of the support handled through self service. 
 The lack of the support articles in multiple languages was seen as one of the main bottlenecks. 
 
-However, this was definitely a case of cold feet. How much is this going to cost? And how can I make sure I can do this with the same amount of people? 
-
 So Jeroen Guldemond decided to call in an expert, and asked Anouk&Co to run a quickscan, asking for more clarity on the decision making. 
 
-".... " (quote van Jeroen)
+“In order to help our non-English clients, our support consultants already suspected that a translated version of our support articles would be of great help, so they started sending out out these articles using Google Translate. Of course they did this manually, so this was quite time consuming.
+Still, making the decision of structurally translating everything was not easy, because we assumed we needed human translators and a project manager to run these translations and we would have to hire someone new to do this.
+When I hired Anouk&Co, I expected them to just make the calculations what it would cost so I could go to my fellow decision makers and have a clear picture to present. It worked out quite differently...”
+
+The quick scan revealed that what was considered most important for this new process was speed and scalability. 
+Given the fast turnaround time of the deploys, and the number of changes that follow in the support content, 
+the time to translate should be minimal, as it would severely affect the effectivity if content was not updated. 
+Also, there were restrictions on the impact on the organization. 
+It was not a given that adding a complex process that would need additional people would result in a positive ROI. 
+Of course, at the same time, the support articles would need to be effective, which should result in an increase of read articles and a decrease of tickets, 
+specifically from clients in non-English speaking countries.  
+
+The quick scan also showed that there were high expectations of the effectivity if human translators were used instead of Google Translate. 
+This was mostly related to the fact that there were references in the articles to the software application, and a general belief that Machine Translation is never really good enough. 
+
+As said before, EasyLMS has experimenting and improving in their DNA and is therefore very mature in removing waste. 
+Scalability, speed and safety for people are their top priorities. This is why they can offer their clients the best product for the best price.
+
+Therefore, the approach that Anouk&Co advised was is to first experiment what happens if you prevent any waste to be added to this process. 
+This means youw will do the simplest thing that could possibly work, detect the bottlenecks if it does not, 
+and solve these bottlenecks by assessing the root cause. 
+
+This meant that we advised to work from the assumption that Machine Translation could be used for translating these articles, 
+until proven differently. And that if there were bottlenecks, first look at how scalable the creation of source content really was, before assuming human translators were the answer. 
+
+Of course we gave a few examples what to look for when creating the source. 
+First, we showed how paid Machine Translation engines were sufficient for this content and provided very good translations.
+A number of sentences didn't come out well, and when we examined these, it appeared the English was not well-formed. When these were changed this had an immediate impact on the 
+all translations. 
+
+Second, we suspected that screenshots would be a major bottleneck. We advised to look into automatic screenshotting and dynamic linking, so that screenshots would be updated for all languages automatically, including English.
+
+Third, the references to the software could turn into a bottleneck, which is not so easy to solve. Short term solutions include things like circumventing using these references and letting the screenshots speak for themselves or adding terminology lists tot the MT engine. 
+However, looking into the root cause of this is the fact that the same content is stored in different places. 
+If we look at it from a single source perspective, these references should always be connected to the place they originate, 
+so that any changes, in whatever language, will be updated as soon as they are changed in the software application. 
+
+The results
+When Jeroen started looking at the process from this perspective, the real cause of the problems surfaced. 
+He even went one step further, adding content creation to the process of software development. 
+This lead to much faster publication of the source content. When first, there was a backlog of at least two weeks before new functionalities would be supported in the help articles, 
+this is now available for their customers when it is deployed. When the automation of the process is complete this will also be the case for the language version.
+
+Results on increase of the level of self service of EasyLMS customers, both in English and other languages are expected to come in at the end of the month. 
+But already, waste has been reduced in creating the source content. It has become highly scalable, there is low cost of change and time to market is very fast. 
+
+There is now a clear picture of what must be automated and with a relatively simple process, no waste will be added when scaling up the amount of content and languages.
+
+
+What would have happened without the quick scan? 
+
+Jeroen: "we were about to send the content to translators. However, we would have run into the exact same problems as we do with Machine Translation, but then expecting translators to solve them. 
+Maybe even thinking our translators were not good enough and that would be the cause of the lack of effectiveness of our content. 
+Looking at the process this way really made it clear where to start and how to solve the issues. 
+Not only did this save us thousands of euros, it also prevented us from going into an extremely complex process where problems would be solved in all the wrong places."
+
+On machine translation
+It could very well be that eventually it appears that human translators are necessary in this process. It is by no means my intention to discard the value of human translators. 
+However, taking Machine Translation as a starting point, makes you really look at your process as a whole, 
+because you cannot blame anyone for mistakes in your translations that are really caused by the way you create your source content. 
+The bottlenecks that were detected in this process were by no means solvable in a controllable way by translators, not even the references to the software application. 
+Still, it happens a lot that translators are blamed for lack of effectivity (if at all measured) where really what is broken is the process. 
+
+
+
 
 
 
