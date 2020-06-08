@@ -21,4 +21,5 @@ but will also impact the quality of your source content. However, for this to wo
 
 But how to go about this? Often, translating earlier versions is seen as a time-consuming, expensive addition to translating after the article is done. So how do you make sure collaboration with translators leads to more value and to faster publishing, more feedback from your users AND early involvement and empowerment of your translators?
 
-For this we need take another perspective on collaborative writing, using agile principles from software development. In this talk I will explain how a paradigm shift towards taking a more agile and collaborative approach on authoring and translation will free you of waste in content creation and translation.
+For this we need take another perspective on collaborative writing, using agile principles from software development. In this article I will explain how a paradigm shift towards taking a more agile and collaborative approach on authoring and translation will free you of waste in content creation and translation.
+
