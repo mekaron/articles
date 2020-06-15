@@ -1,4 +1,4 @@
-##First publish then edit vs. First time right: the new definition of translation quality
+## First publish then edit vs. First time right: the new definition of translation quality
 
 Goal: To tell people what happens if you focus on costs of change instead of endless reviewing and QA
 story line: 
