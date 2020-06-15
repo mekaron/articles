@@ -15,7 +15,7 @@ story line:
 ## The value of Single item flow en describing your processes right
 Goal: translation as part of the processes they belong to; working in single item flow
 
-
+verhaallijn: case study voor in context vertalen, met Jira. 
 
 
 
