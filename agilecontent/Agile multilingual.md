@@ -8,7 +8,7 @@ Translation is usually organized in a waterfall process. Induced by the current 
 
 But then translating begins, and the trouble starts. There is no way up the waterfall, so the translators have to deal with the source content they get.
 Lots of ambiguous sentences, untranslatable idioms and sentences that become too long in the translated version are issues 
-that translators have dealt to cope with, but that reduce their productivity severely and may impact the quality of the end result - time, costs and quality of the translations are all affected.
+that translators have learnt to cope with, but that reduce their productivity severely and may impact the quality of the end result - time, costs and quality of the translations are all affected.
 
 ## The value of translators
 Moreover, and more importantly, translators can be seen as the first users of your content - and hardcore users. 
