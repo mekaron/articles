@@ -23,7 +23,7 @@ But how to go about this? Often, translating earlier versions is seen as a time-
 
 For this we need take another perspective on collaborative writing, using agile principles from software development. You can read more about how to adopt a more agile way of writing *here*. In this article I will explain a little bit more how this paradigm shift towards taking a more agile and collaborative approach on authoring and translation will bring even more benefits when you add translation to the process.
 
-## First publish, then edit
+## First publish, then translate, then edit
 The most important mind shift you need, is that you actually "publish" early versions. Publishing can be thought of in many different ways, obviously, it doesn't necessarily have to be to a public website. And more importantly: publishing is not the end of your process. It's the beginning.  
 
 Now you can do two things with these early publications. 
