@@ -35,17 +35,33 @@ But also, what will happen is that your copy writer will be much faster. She doe
 
 Of course, if you're really bold you already publish content for readers to give feedback on and you measure if the goal has been achieved. All this to make sure you "maximize the work not done". 
 
+## How do you know? 
+
+An important question is: how do you know if this actually works? This is where it becomes interesting. I always use the Lean methodology of continuous improvement to know what to solve, and whether the solutions are actually working. The key to this is that you measure your process, and not just your output. In a nutshell, this is how it works. 
+
+There are a few metrics you can use to evaluate your process. One of these is velocity (aka speed). To see if your process improves, you must measure your baseline first. Having this metric is not a given, as often the processes of creating content and translating it are measured separately, if at all. So first thing you do is measure the time from starting the creation of copy until you have published in all languages. Then you check where most time is wasted, what the root cause is of  and you solve these issues one by one. 
+
+The second is of course quality of your copy, or how I would rather call it, effectivity. This you can measure by making sure you set a measurable goal for your content and comparing the different languages. Again, you define the bottleneck, research the root cause of the differences between the languages, and come up with a solution. 
+
+In my experience, the root causes of the bottlenecks you run into are usually the lack of collaboration and the waterfall approach. If you apply the solution described above, it is very important that you measure the effect on these process metrics, and also define what it is worth to you to increase the velocity or effectivity. 
+
+This will tell you what the ROI of these improvements are. And will make it easier for you to decide if the increase in costs, if there are any, are leading to more revenue, because your time to market is faster or your effectivity is higher. 
+
 ## What do you need?
 
 Easier said than done? Just give it a shot and see for yourself. There are some things that you need to make this work, but what you really need to do is just experiment and make things better step by step. 
 
-Here are 
+Here are a few things you might find you need.
 
 * An agile mindset: you're not afraid to show your preliminary work to the world
 * Direct contact with your translators
 * Trust in the capabilities of your translators
 * A way to publish your content
 * Tooling so translators will understand what has been changed. Usually a translation memory is used for this, but this is not necessarily the best option. 
+
+## Tell me how it went!
+If you are brave and want to give it a go, I'm very curious to hear your results. Also, if you want to discuss this solution further, do not hesitate to connect!
+
 
 
 
