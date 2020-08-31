@@ -90,4 +90,4 @@ alleen QC om QA te faciliteren
 
 ipv reviewen snel wijzigen
 
-first time right is in de meeste gevallen niet first time. 
+first time right is in de meeste gevallen niet first time. (we proberen first time right te doen door review cycles, maar je wil first time right doen door QA: waar in het proces ontstaan fouten?) 
