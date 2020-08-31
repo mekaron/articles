@@ -87,3 +87,7 @@ sneller manier om wijzigingen door te voeren
 
 
 alleen QC om QA te faciliteren
+
+ipv reviewen snel wijzigen
+
+first time right is in de meeste gevallen niet first time. 
