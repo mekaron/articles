@@ -1,0 +1,9 @@
+- define your process
+- define your current batch (the one you're ready for)
+- move to stable process (deviations/limitations)
+- make your piece smaller and move to stable process
+- make your piece even smaller and move to stable process
+- move to single item flow and move to stable process
+- go for no defects
+- go for higher velocity/lower operator time
+- define other process characteristics that you would like to improve on
