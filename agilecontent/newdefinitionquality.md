@@ -83,3 +83,7 @@ content/translation quality is measured by the amount of time to improve your co
 nodig:
 goeie manier om user feedback te organiseren
 sneller manier om wijzigingen door te voeren
+
+
+
+alleen QC om QA te faciliteren
