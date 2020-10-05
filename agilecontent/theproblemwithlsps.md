@@ -15,13 +15,14 @@ korte bespreking over hoe vertalen en de rol van LSPs veranderd is in de tijd.
 
 The value of LSPs
 * op welke manier leveren LSPs nu toegevoegde waarde? Wanneer zijn ze van toepassing?
-=> oplossen van het resultaat van problemen in de 
+=> oplossen van het resultaat van problemen in de value stream
 
 
 Wat gaat er mis? 
 * problemen die in je content creatie ook al zitten en daar ook al waste opleveren, worden bij vertalen naar meer dan 2 talen opeens onbeheersbaar
 * deze problemen komen te liggen bij de vertaalbureaus
 * bij het optimaliseren van hun proces hebben ze maar invloed op een klein deel van het proces
+* problemen liggen buiten hun zicht, namelijk bij de vertalers, die ook alles zelf zitten op te lossen
 * oorzaken van de problemen liggen buiten hun invloedssfeer 
 * dit wordt suboptimalisatie genoemd, waarbij je een deel van het proces optimaliseert zonder te kijken naar de impact van je optimalisatie voor het grotere geheel
 
@@ -33,7 +34,11 @@ Gevolg:
   - lagere time to market dan mogelijk
   - hogere kosten dan mogelijk
   - teveel middle men
-  - 
+  - dubbel uitgevoerd werk
+- waste of time, talent and knowledge about what must be improved (translators) => vertalers 
+    - dit vergt een apart artikel
+    - vertalers (waar de problemen zich manifesteren) staan veel te veel stappen af van de oorzaak
+    - geen collaborative workflow mogelijk
   - geen werkelijke verbetering, geen werkelijke innovatie
 
 
@@ -45,12 +50,34 @@ lastig: je verdient gewoon het meeste door 100% marge te pakken op vertaalkosten
 bizarre situatie: project management en zelfs software wordt verdisconteerd in de prijs van de vertaling 
 => no incentive for clients to improve anything as it will not have any effect on the translation costs: why invest in improvements when there is not ROI, apart from higher time to market, which they promised they'd take care of, right? 
 
+
 Hoe dan wel?
 
-* companies to take ownership of the translation process. 
-=> clients 
-* LSPs to deliver translator management, not project management
-* 
+* companies to take ownership of the translation process and have identical processes for working with freelancers or LSPs
+
+* companies to align or integrate it with the process it belongs to and to use the same project management tool for translation as for the process translation belongs to
+
+* take out middle man when it comes to project management
+
+* companies to work Lean and apply continuous improvement, improve what must be improved
+
+* Building an infrastructure with best of breed tooling, where project management, workflow automation and TMS is separated
+xcn                                                                                                                                                                                                                                                                                                                        
+* LSPs to deliver - if anything
+- advice on how to run processes yourself
+- translator management, not project management
+
+What will happen:
+- 
+
+
+
+
+Either LSPs will make the change, or the clients will. It's up to you. 
+
+
+Do you want to know how to take ownership of your translation process and really deliver to your multilingual users what they need, at the time they need it and at the costs they are willing to pay for it? CALL ME
+ 
 
 
 
