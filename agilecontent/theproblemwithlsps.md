@@ -12,11 +12,23 @@ Inleiding:
 
 korte bespreking over hoe vertalen en de rol van LSPs veranderd is in de tijd. 
 
+LSPs waren altijd logistieke dienstverleners, die het daadwerkelijke vertaalwerk meestal buiten de deur lieten uitvoeren. 
+
+Tot een jaar of 10 geleden was had dit toegevoegde waarde. Vinden van vertalers, managen van files etc etc waren diensten die je als bedrijf liever niet zelf wilde uitvoeren.
+
+Wat is er veranderd? 
+
+* vinden van vertalers is een eitje
+* automatisering maakt file handling potentieel overbodig
+* publicatie vindt plaats in de systemen van de klant
+* files zitten nu in de cloud
+* door verschillende content types is vertalen maar een klein deel van het proces dat er uitgevoerd moet worden om iets publiceerbaar te krijgen
 
 The value of LSPs
 * op welke manier leveren LSPs nu toegevoegde waarde? Wanneer zijn ze van toepassing?
-=> oplossen van het resultaat van problemen in de value stream
 
+* Nowadays, Translation companies have the most value when the processes at the client side are broken. They are alleviating their clients of the responsibility to fix what is broken, and what should be fixed. 
+* In order to maintain a client lock-in, they develop tooling that can only be used for/by a client as a total package with translation included
 
 Wat gaat er mis? 
 * problemen die in je content creatie ook al zitten en daar ook al waste opleveren, worden bij vertalen naar meer dan 2 talen opeens onbeheersbaar
@@ -86,17 +98,7 @@ Do you want to know how to take ownership of your translation process and really
 
 
 
-LSPs waren altijd logistieke dienstverleners, die het daadwerkelijke vertaalwerk meestal buiten de deur lieten uitvoeren. 
 
-Tot een jaar of 10 geleden was had dit toegevoegde waarde. Vinden van vertalers, managen van files etc etc waren diensten die je als bedrijf liever niet zelf wilde uitvoeren.
-
-Wat is er veranderd? 
-
-* vinden van vertalers is een eitje
-* automatisering maakt file handling potentieel overbodig
-* publicatie vindt plaats in de systemen van de klant
-* files zitten nu in de cloud
-* door verschillende content types is vertalen maar een klein deel van het proces dat er uitgevoerd moet worden om iets publiceerbaar te krijgen
 
 
 
