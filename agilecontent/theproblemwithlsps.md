@@ -1,30 +1,110 @@
-The problem with lsps
+The problem with Language Service Providers (aka translation companies)
 
 
-Goal: show the world how our current translation ecosystem is stopping us from delivering real value to our end users and is the cause of the lack of innovation and true speed in publishing. 
+Goal: Show how our current translation ecosystem stops us from delivering real value to end users and is the cause of the lack of effective innovation: innovation that enhances delivering to users what they need, at the time they need it, with a high ROI.  
+
+
+In this article, I will argue that there is a lack of innovation in the translation industry, which means we haven't yet solved the problem of publishing in multiple languages. It is still slowing down the time to market for products and content, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
+
+Note: you are now reading the first MVP (minimal viable publication) of my article. Publishing this in this early stage will give a chance to receive feedback and advice, and give me an idea if my audience is interested in this topic, whether they understand where I want to go with this, and last but not least, give me the urgency to finish it. And besides, this is about truly practising what you preach: first publish, then edit (see: ...) Any idea, thought, comment is more than welcome, so do not hold back! 
+
+
+
+When content was mostly published offline (hard copy), you had no choice but to take a waterfall approach to translation
+  * First finish your source content, then translate. Changing it after publication was no option, version control was impossible. It was just too hard. 
+  * Translation companies were born from this system. Because who wants to deal with:
+      * finding translators by putting adds in newspapers and getting through tens or 100s of applications
+      * sending documents back and forth to translators
+      * making changes in the source text in 10 languages that were corresponded through email
+      * ... 
+  * Translation companies fixed the problems where they encountered them, although they were caused elsewhere. They optimized their part of the system and maximized their revenues. 
+  
+  
+ 
+ Now, in this online world, 
+  * all content is online and can be changed on the basis of user feedback at any time
+  * time to market is everything. Waiting for content is losing exposure, value, etc.
+  * collaborative workflows are the norm. Agile is considered THE way to produce valuable output over waterfall
+ 
+The time is now! We can really become creative and design more sophisticated processes, in order to finally deliver a quality product (quality as defined by the user: what he needs, at the time he needs it, at the costs that he is willing to pay for it)
+
+Can't we? 
+
+Eh.. no
+
+* Our ecosystem of translation companies is still built on the waterfall principle
+* Alignment of processes is not happening, let alone integration
+
+Why?
+
+* Translation companies have optimized their part of the process and this has led to suboptimization: the practice of focusing on one component of a total and making changes intended to improve that one component and ignoring the effects on the other components. LSPs have - logically - focused on maximizing their profit, not taking into account what this does to the overall value stream (meaning: the business goals of their clients)
+
+* This is also an effect of the business model of translation agencies: project management paid by the word
+* Up until now, LSPs have been the go-to place for companies that need translations 
+  * the current ecosystem has led them to believe that treating translation as something different from their core business is a logical thing to do
+
+And the result?
+
+* Translation is still considered as a cost instead of an opportunity
+* Translation is slowing down the time to market of product and content
+* ROI of multilingual publishing is unclear
+* World economics are hindered because we cannot overcome the language barriers and we re not taking full advantage of our product potential internationally
+
+How to solve it? 
+companies to 
+* take ownership of the entire multilingual process
+* take over translation project management (with the intention of erasing it all together by automation)
+* align and if necessary integrate with content creation process
+* remove waste systemetically
+* get expertise straight from their translators
+
+LSPs to:
+* offer services that support companies that want to take ownership of the process
+
+Result would be:
+* a lean, integrated process where all languages are delivered at the same time, giving the same quality to all users, irrespective of their language.
+
+
+We see that companies are ready to take this step. So either LSPs will make the change, or your clients will. It's up to you. 
+
+
+
+Do you want to know how to take ownership of your translation process and really deliver to your multilingual users what they need, at the time they need it and at the costs they are willing to pay for it? CALL ME
+
+
+
+
+
+
+
+
+
+
+
 
 
 For ages, translation companies have tried to promote themselves as companies that make translations faster, cheaper and better. In this paper I will argue that in the current ecosystem and in the current business models they are doing the opposite. I will discuss the root cause and what change it takes to solve it. 
 
 
 
-Inleiding: 
+Introduction: 
+Translation companies, or Language Service Providers (LSPs), as they're called nowadays, are providers of logistic services. The actual translation is usually done by external translators, and the main service they provide is project management.  
 
-korte bespreking over hoe vertalen en de rol van LSPs veranderd is in de tijd. 
+Until about 10 years ago this service really had added value. Finding translators, managing the translation project, managing files, sending and receiving them to and from translators for multiple languages was really a task you'd rather outsource than have in house. As there was only one chance to publish, and agile was far from arriving anywhere near translation, having a separate company that took care of this was indeed very valuable.     
 
-LSPs waren altijd logistieke dienstverleners, die het daadwerkelijke vertaalwerk meestal buiten de deur lieten uitvoeren. 
+But now...
+* Translators can easily be found online
+* Automation reduces the need for file handling
+* Publication is done in the systems of the client 
+* Files are in the cloud now
 
-Tot een jaar of 10 geleden was had dit toegevoegde waarde. Vinden van vertalers, managen van files etc etc waren diensten die je als bedrijf liever niet zelf wilde uitvoeren.
+These changes open up a huge potential to increase the speed and quality of publishing multilingual content and cutting out middle men. But somehow... this is not happening to the extent that could be possible. 
 
-Wat is er veranderd? 
-
-* vinden van vertalers is een eitje
-* automatisering maakt file handling potentieel overbodig
-* publicatie vindt plaats in de systemen van de klant
-* files zitten nu in de cloud
-* door verschillende content types is vertalen maar een klein deel van het proces dat er uitgevoerd moet worden om iets publiceerbaar te krijgen
 
 The value of LSPs
+So what is the value 
+
+
 * op welke manier leveren LSPs nu toegevoegde waarde? Wanneer zijn ze van toepassing?
 
 * Nowadays, Translation companies have the most value when the processes at the client side are broken. They are alleviating their clients of the responsibility to fix what is broken, and what should be fixed. 
@@ -85,10 +165,9 @@ What will happen:
 
 
 
-Either LSPs will make the change, or the clients will. It's up to you. 
 
 
-Do you want to know how to take ownership of your translation process and really deliver to your multilingual users what they need, at the time they need it and at the costs they are willing to pay for it? CALL ME
+
  
 
 
