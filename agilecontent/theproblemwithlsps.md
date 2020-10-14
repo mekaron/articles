@@ -4,7 +4,7 @@
 Goal: Show how our current translation ecosystem stops us from delivering real value to end users and is the cause of the lack of effective innovation: innovation that enhances delivering to users what they need, at the time they need it, with a high ROI.  
 
 
-In this article, I will argue that there is a lack of innovation in the translation industry, which means we haven't yet solved the problem of publishing in multiple languages. It is still slowing down the time to market for products and content, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
+In this article, I will argue that there is a lack of innovation in the translation industry, and this is the reason we haven't yet solved the problem of publishing in multiple languages. It is still slowing down the time to market for products and content, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
 
 _Note: you are now reading the first MVP (minimal viable publication) of my article. Publishing this in this early stage will give me a chance to receive feedback and advice, and give me an idea if my audience is interested in this topic, whether they understand where I want to go with this, and last but not least, give me the urgency to finish it. And besides, this is about truly practising what you preach: first publish, then edit (see: ...) Any idea, thought, comment is more than welcome, so do not hold back!_ 
 
