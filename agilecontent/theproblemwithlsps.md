@@ -63,13 +63,13 @@ companies to
 LSPs to:
 * offer services that support companies that want to take ownership of the process
 
-Result would be:
+## Result would be:
 * a lean, integrated process where all languages are delivered at the same time, giving the same quality to all users, irrespective of their language.
 
-
+## Ending statement
 We see that companies are ready to take this step. So either LSPs will make the change, or your clients will. It's up to you. 
 
-
+## Call to action
 
 _Do you want to know how to take ownership of your translation process and really deliver to your multilingual users what they need, at the time they need it and at the costs they are willing to pay for it? Book an assessment call today at https://calendly.com/anouk-and-co/assessment to discuss how we could help you achieve this._ 
 
