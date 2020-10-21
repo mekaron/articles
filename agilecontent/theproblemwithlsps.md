@@ -16,10 +16,11 @@ When content was mostly published on paper, you almost had no choice but to take
 Making a change to something that was already sent out to a translator was a no go. So a source text had to be fully revised before it could be sent out, and if there was a necessary change, this was a big deal for whoever was in charge of getting translations done. 
 
 Of course, no company wanted to deal with this. Because who wants to add to their core business:
-      * finding translators by putting adds in newspapers and getting through tens or 100s of applications
-      * sending documents back and forth to translators
-      * making changes in the source text in 10 languages that were corresponded through email
-      * doing all the work that project managers in LSPs are doing these days (and that make them cry on a regular basis)
+
+* finding translators by putting adds in newspapers and getting through tens or 100s of applications
+* sending documents back and forth to translators
+* making changes in the source text in 10 languages that were corresponded through email
+* doing all the work that project managers in LSPs are doing these days (and that makes them cry on a regular basis)
 
 This is how translation companies came into existence. 
 
