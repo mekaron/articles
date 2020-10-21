@@ -6,23 +6,23 @@ _Note: you are now reading the first MVP (minimal viable publication) of my arti
 Goal: Show how our current translation ecosystem stops us from delivering real value to end users and is the cause of the lack of effective innovation: innovation that enhances delivering to users what they need, at the time they need it, with a high ROI.  
 
 
-In this article, I will argue that our current ecosystem reinforces translation to be treated as separate from content creation, 
+In this article, I will argue that our current ecosystem reinforces translation to be treated as separate from content creation, leading to a lack of innovation in the translation industry. This is the reason we haven't yet solved the problem of publishing content in multiple languages. It is still slowing down the time to market, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
 
 
-In this article, I will argue that there is a lack of innovation in the translation industry, and this is the reason we haven't yet solved the problem of publishing in multiple languages. It is still slowing down the time to market for products and content, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
+## How it all began
 
+When content was mostly published on paper, you almost had no choice but to take a waterfall (avant la lettre) approach to translation. Translation management was a tedious task, mostly because content was only stored in files, and was sometimes even shared through faxes and other means of hard copy devices. 
 
+Making a change to something that was already sent out to a translator was a no go. So a source text had to be fully revised before it could be sent out, and if there was a necessary change, this was a big deal for whoever was in charge of getting translations done. 
 
-
-## How it was before
-
-When content was mostly published offline (hard copy), you had no choice but to take a waterfall approach to translation
-  * First finish your source content, then translate. Changing it after publication was no option, version control was impossible. It was just too hard. 
-  * Translation companies were born from this system. Because who wants to deal with:
+Of course, no company wanted to deal with this. Because who wants to add to their core business:
       * finding translators by putting adds in newspapers and getting through tens or 100s of applications
       * sending documents back and forth to translators
       * making changes in the source text in 10 languages that were corresponded through email
-      * ... 
+      * doing all the work that project managers in LSPs are doing these days (and that make them cry on a regular basis)
+
+This is how translation companies came into existence. 
+
 
 Translation companies fixed the problems where they encountered them, although they were caused elsewhere. They optimized their part of the system and maximized their revenues. Very useful! Until now...
   
@@ -33,12 +33,13 @@ In this digital world, time to market is everything. The sooner you publish or d
 Agile methodology in software development and other industries, has also taught us that having multidiscplinary teams collaborate in creating MVPs and iterating over that first version, is far more effective than working in silos, where there is no way "up the waterfall" and problems detected later on in the process can never be fixed where they originate. 
   
 When we make the mindshift to a more agile approach to translation, we start thinking differently about a lot of things. Semir Mehadzic, one of my fellow agile minds in the localization industry () gives some examples in reply to one of my posts on LinkedIn:
-
-* We dont want to do LQA in the same environment/context as the translators
+"
+* We don't want to do LQA (Language Quality assurance aka reviewing - ed.) in the same environment/context as the translators
 * We're not even sure separate LQA is needed at all
 * We're OK with the possibility of releasing an occasional spelling or other error to production (to save time and reduce the complexity)
 * LSPs are really not needed if you have text strings to translate and have an automated way to dispatch them
 * We dont't believe in KPIs and error-count metrics as a way to measure quality
+"
 
 While these statements were absolutely unimaginable 20 years ago, the current situation of how online content is stored and the requirements of the world we're living in, are asking for these kinds of bold statements. That is, if we ever want to deliver a high quality multilingal product; quality as defined by the user: what he needs, at the time he needs it, at the costs that he is willing to pay for it. 
 
