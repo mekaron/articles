@@ -1,12 +1,17 @@
+_Note: you are now reading the first MVP (minimal viable publication) of my article. Publishing this in this early stage will give me a chance to receive feedback and advice, and give me an idea if my audience is interested in this topic, whether they understand where I want to go with this, and last but not least, give me the urgency to finish it. And besides, this is about truly practising what you preach: first publish, then edit (see: ...) Any idea, thought, comment is more than welcome, so do not hold back!_ 
+
 # The problem with Language Service Providers (aka translation companies)
 
 
 Goal: Show how our current translation ecosystem stops us from delivering real value to end users and is the cause of the lack of effective innovation: innovation that enhances delivering to users what they need, at the time they need it, with a high ROI.  
 
 
+In this article, I will argue that our current ecosystem reinforces translation to be treated as separate from content creation, 
+
+
 In this article, I will argue that there is a lack of innovation in the translation industry, and this is the reason we haven't yet solved the problem of publishing in multiple languages. It is still slowing down the time to market for products and content, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
 
-_Note: you are now reading the first MVP (minimal viable publication) of my article. Publishing this in this early stage will give me a chance to receive feedback and advice, and give me an idea if my audience is interested in this topic, whether they understand where I want to go with this, and last but not least, give me the urgency to finish it. And besides, this is about truly practising what you preach: first publish, then edit (see: ...) Any idea, thought, comment is more than welcome, so do not hold back!_ 
+
 
 
 ## How it was before
@@ -18,21 +23,36 @@ When content was mostly published offline (hard copy), you had no choice but to 
       * sending documents back and forth to translators
       * making changes in the source text in 10 languages that were corresponded through email
       * ... 
-  * Translation companies fixed the problems where they encountered them, although they were caused elsewhere. They optimized their part of the system and maximized their revenues. 
-  
- ## where we could be now 
- 
- Now, in this online world, 
-  * all content is online and can be changed on the basis of user feedback at any time
-  * time to market is everything. Waiting for content is losing exposure, value, etc.
-  * collaborative workflows are the norm. Agile is considered THE way to produce valuable output over waterfall
- 
-The time is now! We can really become creative and design more sophisticated processes, in order to finally deliver a quality product (quality as defined by the user: what he needs, at the time he needs it, at the costs that he is willing to pay for it)
 
-Can't we? 
+Translation companies fixed the problems where they encountered them, although they were caused elsewhere. They optimized their part of the system and maximized their revenues. Very useful! Until now...
+  
+ ## where we are now: moving to an agile mindset in an online world
+ 
+In this digital world, time to market is everything. The sooner you publish or deploy, the sooner you can start making money. Holding off on publishing until everything is perfect is a great pitfall and can destroy the value you create. All content is online and can - and will - be changed on the basis of user feedback at any time. People writing content - whether they're in marketing, support or in product, know that they're not algmighty and that they need to adjust their content on the basis of the wisdom of the crowd. Effectivity of content is key, and whether or not it's effective can be measured in one way only: by giving it to the user. But it needs to be fast. And to reach the full potential: it needs to be fast in all languages. 
+
+Agile methodology in software development and other industries, has also taught us that having multidiscplinary teams collaborate in creating MVPs and iterating over that first version, is far more effective than working in silos, where there is no way "up the waterfall" and problems detected later on in the process can never be fixed where they originate. 
+  
+When we make the mindshift to a more agile approach to translation, we start thinking differently about a lot of things. Semir Mehadzic, one of my fellow agile minds in the localization industry () gives some examples in reply to one of my posts on LinkedIn:
+
+* We dont want to do LQA in the same environment/context as the translators
+* We're not even sure separate LQA is needed at all
+* We're OK with the possibility of releasing an occasional spelling or other error to production (to save time and reduce the complexity)
+* LSPs are really not needed if you have text strings to translate and have an automated way to dispatch them
+* We dont't believe in KPIs and error-count metrics as a way to measure quality
+
+While these statements were absolutely unimaginable 20 years ago, the current situation of how online content is stored and the requirements of the world we're living in, are asking for these kinds of bold statements. That is, if we ever want to deliver a high quality multilingal product; quality as defined by the user: what he needs, at the time he needs it, at the costs that he is willing to pay for it. 
+
+And, of course, this online world also makes it easy to find really good translators, that know how to translate, but also, that understand much more of the translation process than you can ever imagine. I was shocked when only 4 years ago, at a conference, I heard people saying about translators: oh no, they just want to type words on their attic, they don't want to be bothered with client side problems, nor be involved in the process. Some waste of talent and expertise, right? 
+
+We can store content online before it's published, we can make and track changes at any time, we can find translators online, we can get feedback from our users. WE have project management tools in the cloud, we are able to track what has happened when. We can see lean and agile processes implemented in other industries, all we have to do is look at what they do and what they've learned. 
+
+The time is now! We have all the ingredients for real collaboration and the right use of talent and expertise, and we can finally eliminate some serious waste in our localization processes. We have all the tools to really become creative and design more sophisticated processes. Finally, we can give equal rights to speakers of all languages and serve them with content in their languages instantly!
+
+Right? 
+
+Eh.. no
 
 ## where we really are
-Eh.. no
 
 * Our ecosystem of translation companies is still built on the waterfall principle
 * Alignment of processes is not happening, let alone integration
