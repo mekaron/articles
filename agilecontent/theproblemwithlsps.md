@@ -22,12 +22,11 @@ Of course, no company wanted to deal with this. Because who wants to add to thei
 * making changes in the source text in 10 languages that were corresponded through email
 * doing all the work that project managers in LSPs are doing these days (and that makes them cry on a regular basis)
 
-This is how translation companies came into existence. 
+This is how translation companies came into existence. Yuka Nakasone once told me the story of how the entire translation industry - including all LSPs, MLVs and SLVs - was designed and ordered by a tech giant. With their hundreds of millions of dollars of localization projects back then as well, they were able to order the entire ecosystem as we know it right now. 
 
-
-Translation companies fixed the problems where they encountered them, although they were caused elsewhere. They optimized their part of the system and maximized their revenues. Very useful! Until now...
+Translation companies promised to fix the problems they encountered in their process, even if they were caused on the client side. They optimized their part of the system, starting off from a signed off source text, and maximized their revenues on that model. Very useful! Until now...
   
- ## where we are now: moving to an agile mindset in an online world
+ ## moving to an agile mindset in an online world
  
 In this digital world, time to market is everything. The sooner you publish or deploy, the sooner you can start making money. Holding off on publishing until everything is perfect is a great pitfall and can destroy the value you create. All content is online and can - and will - be changed on the basis of user feedback at any time. People writing content - whether they're in marketing, support or in product, know that they're not algmighty and that they need to adjust their content on the basis of the wisdom of the crowd. Effectivity of content is key, and whether or not it's effective can be measured in one way only: by giving it to the user. But it needs to be fast. And to reach the full potential: it needs to be fast in all languages. 
 
@@ -48,13 +47,15 @@ And, of course, this online world also makes it easy to find really good transla
 
 We can store content online before it's published, we can make and track changes at any time, we can find translators online, we can get feedback from our users. WE have project management tools in the cloud, we are able to track what has happened when. We can see lean and agile processes implemented in other industries, all we have to do is look at what they do and what they've learned. 
 
-The time is now! We have all the ingredients for real collaboration and the right use of talent and expertise, and we can finally eliminate some serious waste in our localization processes. We have all the tools to really become creative and design more sophisticated processes. Finally, we can give equal rights to speakers of all languages and serve them with content in their languages instantly!
+The time is now! We have all the ingredients for real collaboration and the right use of talent and expertise, and we can finally eliminate some serious waste in our global content processes. We have all the tools to really become creative and design more sophisticated processes. Finally, we can give equal rights to speakers of all languages and serve them with content in their languages without a blink of the eye!
 
 Right? 
 
 Eh.. no
 
 ## where we really are
+
+
 
 * Our ecosystem of translation companies is still built on the waterfall principle
 * Alignment of processes is not happening, let alone integration
