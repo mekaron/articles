@@ -45,22 +45,21 @@ While these statements were absolutely unimaginable 20 years ago, the current si
 
 And, of course, this online world also makes it easy to find really good translators, that know how to translate, but also, that understand much more of the translation process than you can ever imagine. I was shocked when only 4 years ago, at a conference, I heard people saying about translators: oh no, they just want to type words on their attic, they don't want to be bothered with client side problems, nor be involved in the process. Some waste of talent and expertise, right? 
 
-We can store content online before it's published, we can make and track changes at any time, we can find translators online, we can get feedback from our users. WE have project management tools in the cloud, we are able to track what has happened when. We can see lean and agile processes implemented in other industries, all we have to do is look at what they do and what they've learned. 
+We can store content online before it is published, we can make and track changes at any time, we can find translators online, we can get feedback from our users. We have project management tools in the cloud, we are able to track what has happened when. We can see lean and agile processes implemented in other industries, all we have to do is look at what they do and what they've learned. 
 
 The time is now! We have all the ingredients for real collaboration and the right use of talent and expertise, and we can finally eliminate some serious waste in our global content processes. We have all the tools to really become creative and design more sophisticated processes. Finally, we can give equal rights to speakers of all languages and serve them with content in their languages without a blink of the eye!
 
 Right? 
 
-Eh.. no
+Eh... no
 
 ## where we really are
 
-In most companies, translation is still considered a cost instead of an opportunity. Many companies still do not translate their content because they fear the costs and the time it takes, which is of course negatively affecting their international ambitions. In case translation is felt to be necessary, it usually leads to a long delay in time to market, for both content and products.  
+In most companies, translation is still considered a cost instead of an opportunity. Many companies still do not translate their content because they fear the costs and the time it takes, which is of course negatively affecting their international ambitions. In case translation is felt to be necessary, it usually leads to a long delay in time to market, for both content and products. 
 
-* ROI of multilingual publishing is unclear
-* World economics are hindered because we cannot overcome the language barriers and we re not taking full advantage of our product potential internationally
+You could even argue that our world economics are not reachting its full potential because we cannot overcome the language barriers and we re not taking full advantage of our product potential internationally.
 
-
+In a way, it's not surprising this is happening. Somehow, we are not taking advantage of all the opportunities this new digital world is offering, 
 That's not surprising, because:
 * Our ecosystem of translation companies is still built on the waterfall principle
 * Alignment of processes is not happening, let alone integration
