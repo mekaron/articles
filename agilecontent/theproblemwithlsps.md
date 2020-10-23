@@ -8,7 +8,6 @@ Goal: Show how our current translation ecosystem stops us from delivering real v
 
 In this article, I will argue that our current ecosystem reinforces translation to be treated as separate from content creation, leading to a lack of innovation in the translation industry. This is the reason we haven't yet solved the problem of publishing content in multiple languages. It is still slowing down the time to market, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
 
-
 ## How it all began
 
 When content was mostly published on paper, you almost had no choice but to take a waterfall (avant la lettre) approach to translation. Translation management was a tedious task, mostly because content was only stored in files, and was sometimes even shared through faxes and other means of hard copy devices. 
@@ -28,7 +27,11 @@ Translation companies promised to fix the problems they encountered in the trans
   
  ## moving to an agile mindset in an online world
  
-In this digital world, time to market is everything. The sooner you publish or deploy, the sooner you can start making money. Holding off on publishing until everything is perfect is a great pitfall and can destroy the value you create. All content is online and can - and will - be changed on the basis of user feedback at any time. People writing content - whether they're in marketing, support or in product, know that they're not algmighty and that they need to adjust their content on the basis of the wisdom of the crowd. Effectivity of content is key, and whether or not it's effective can be measured in one way only: by giving it to the user. But it needs to be fast. And to reach the full potential: it needs to be fast in all languages. 
+In this digital world, time to market is everything. The sooner you publish or deploy, the sooner you can start making money. Holding off on publishing until everything is perfect is a great pitfall and can destroy the value you create. 
+
+All content is online and can - and will - be changed on the basis of user feedback at any time. People writing content - whether they're in marketing, support or in product, know that they're not algmighty and that they need to adjust their content on the basis of the wisdom of the crowd.
+
+Effectivity of content is key, and whether or not it's effective can be measured in one way only: by giving it to the user. But it needs to be fast. And to reach the full potential: it needs to be fast in all languages. 
 
 Agile methodology in software development and other industries, has also taught us that having multidiscplinary teams collaborate in creating MVPs and iterating over that first version, is far more effective than working in silos, where there is no way "up the waterfall" and problems detected later on in the process can never be fixed where they originate. 
   
@@ -57,9 +60,21 @@ Eh... no
 
 In most companies, translation is still considered a cost instead of an opportunity. Many companies still do not translate their content because they fear the costs and the time it takes, which is of course negatively affecting their international ambitions. In case translation is felt to be necessary, it usually leads to a long delay in time to market, for both content and products. 
 
-You could even argue that our world economics are not reachting its full potential because we cannot overcome the language barriers and we re not taking full advantage of our product potential internationally.
+You could even argue that our world economics are not reachting its full potential because we cannot overcome the language barriers and we're not taking full advantage of our product potential internationally.
 
-In a way, it's not surprising this is happening. Somehow, we are not taking advantage of all the opportunities this new digital world is offering, 
+Somehow, we are not taking advantage of all the opportunities this new digital world is offering. Translation is still an afterthought for most companies and this is making the translation process run into all kinds of bottlenecks.
+
+In a way, it is not surprising this is happening. 
+
+The ecosystem that currently exists is **inherently** set up as a waterfall process. You finish your source text, you send it to a translation agency, they do something with it and then a translation is returned. There is usually no contact between the translator and the owner of the content, there is hardly any feedback about textual or technical issues with the source text, and if there is, there is no one system that allows for these kinds of feedback loops, as is usually the case in waterfall processes.  
+
+In rare cases there is alignment of processes, but this only happens for the very large enterprise accounts. And even then, real integration of processes, where content creation and translation are one, and true collaboration and feedback loops are facilitated are a needle in a hay stack. 
+
+
+
+
+
+
 That's not surprising, because:
 * Our ecosystem of translation companies is still built on the waterfall principle
 * Alignment of processes is not happening, let alone integration
