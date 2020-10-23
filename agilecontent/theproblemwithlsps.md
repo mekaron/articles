@@ -17,14 +17,14 @@ Making a change to something that was already sent out to a translator was a no 
 
 Of course, no company wanted to deal with this. Because who wants to add to their core business:
 
-* finding translators by putting adds in newspapers and getting through tens or 100s of applications
-* sending documents back and forth to translators
-* making changes in the source text in 10 languages that were corresponded through email
-* doing all the work that project managers in LSPs are doing these days (and that makes them cry on a regular basis)
+* Finding translators by putting adds in newspapers and getting through tens or 100s of applications
+* Sending documents back and forth to translators
+* Making changes in the source text in 10 languages that were corresponded through email
+* Doing all the tedious work that project managers in LSPs are doing these days (and that makes them cry on a regular basis)
 
 This is how translation companies came into existence. Yuka Nakasone once told me the story of how the entire translation industry - including all LSPs, MLVs and SLVs - was designed and ordered by a tech giant. With their hundreds of millions of dollars of localization projects back then as well, they were able to order the entire ecosystem as we know it right now. 
 
-Translation companies promised to fix the problems they encountered in their process, even if they were caused on the client side. They optimized their part of the system, starting off from a signed off source text, and maximized their revenues on that model. Very useful! Until now...
+Translation companies promised to fix the problems they encountered in the translation process, even if they were caused on the client side. They optimized their part of the system, starting off from a signed off source text, and maximized their revenues on that model. Very useful! Until now...
   
  ## moving to an agile mindset in an online world
  
@@ -55,10 +55,16 @@ Eh.. no
 
 ## where we really are
 
+In most companies, translation is still considered a cost instead of an opportunity. Many companies still do not translate their content because they fear the costs and the time it takes, which is of course negatively affecting their international ambitions. In case translation is felt to be necessary, it usually leads to a long delay in time to market, for both content and products.  
+
+* ROI of multilingual publishing is unclear
+* World economics are hindered because we cannot overcome the language barriers and we re not taking full advantage of our product potential internationally
 
 
+That's not surprising, because:
 * Our ecosystem of translation companies is still built on the waterfall principle
 * Alignment of processes is not happening, let alone integration
+* Problems are not solved scientifically, so no 
 
 ## Why?
 
@@ -68,12 +74,6 @@ Eh.. no
 * Up until now, LSPs have been the go-to place for companies that need translations 
   * the current ecosystem has led them to believe that treating translation as something different from their core business is a logical thing to do
 
-## And the result?
-
-* Translation is still considered as a cost instead of an opportunity
-* Translation is slowing down the time to market of product and content
-* ROI of multilingual publishing is unclear
-* World economics are hindered because we cannot overcome the language barriers and we re not taking full advantage of our product potential internationally
 
 ## How to solve it? 
 companies to 
