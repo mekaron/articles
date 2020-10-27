@@ -66,27 +66,32 @@ Somehow, we are not taking advantage of all the opportunities this new digital w
 
 In a way, it is not surprising this is happening. 
 
-The ecosystem that currently exists is **inherently** set up as a waterfall process. You finish your source text, you send it to a translation agency, they do something with it and then a translation is returned. There is usually no contact between the translator and the owner of the content, there is hardly any feedback about textual or technical issues with the source text, and if there is, there is no one system that allows for these kinds of feedback loops, as is usually the case in waterfall processes.  
+The ecosystem that currently exists is **inherently** set up as a waterfall process. In many cases, there are three processes that function independently from eachother: the content creation process, the in-house project management of translation and the outsourced project management of translation. 
 
-In rare cases there is alignment of processes, but this only happens for the very large enterprise accounts. And even then, real integration of processes, where content creation and translation are one, and true collaboration and feedback loops are facilitated are a needle in a hay stack. 
+You finish your source text, you notify your translation department, who sends it to a translation agency, they do something with it (potentially through subvendors, all with their own process) and then a translation is returned. The translation department is responsible for making sure the content is validated and published. 
 
+There is usually no contact between the translator and the owner of the content, there is hardly any feedback about textual or technical issues with the source text, and if there is, there is no system that allows for these kinds of feedback loops, as is usually the case in waterfall processes. All this while from the translation process, valuable information can be acquired about the quality of the entire process of the creation of content.
 
+## Why is this a bad thing? 
 
+One of the main principles of Lean is to optimize the whole: optimizing the entire value stream. Suboptimization is "the practice of focusing on one component of a total and making changes intended to improve that one component and ignoring the effects on the other components". Suboptimization is a problem, not only because you often optimize the wrong component - which does not lead to the intended overall result, but moreover, doing so more often than not has unintended and surprising consequences in places that you cannot see 
 
+Translation companies have optimized their (sub)process and this has led to suboptimization. They have - logically - focused on maximizing their profit, not taking into account what this does to the overall value stream. So eventhough they often have the right intention, their entire operations are focused on efficiency of (their part of) the translation process, and not on the overall business goals of their clients. 
 
+The big problem that this situation causes is the fact that problems are hardly ever structurally solved. Even when there is a long lasting relationship between a translation agency and a client, and they claim they are working upstream to improve the process, there is usually no one person responsible for the entire process of multilingual content creation. Because this would take a process manager on the client side that systematically monitors the the process of the translation company, or someone from the translation company do the same on the client side. Both very unlikely scenarios.
 
-That's not surprising, because:
-* Our ecosystem of translation companies is still built on the waterfall principle
-* Alignment of processes is not happening, let alone integration
-* Problems are not solved scientifically, so no 
+This means that structural changes to the content creation process, systems or client side translation processes in order to enhance the translation process on the side of the agency are very unlikely to take place. 
 
-## Why?
+In rare cases there is alignment of processes, but this only happens for the very large enterprise accounts. And even then, cases of real integration of processes, where content creation and translation are one, and true collaboration and feedback loops are facilitated are a needle in a hay stack. 
 
-* Translation companies have optimized their part of the process and this has led to suboptimization: the practice of focusing on one component of a total and making changes intended to improve that one component and ignoring the effects on the other components. LSPs have - logically - focused on maximizing their profit, not taking into account what this does to the overall value stream (meaning: the business goals of their clients)
+## Why is this so hard to change?
 
-* This is also an effect of the business model of translation agencies: project management paid by the word
-* Up until now, LSPs have been the go-to place for companies that need translations 
-  * the current ecosystem has led them to believe that treating translation as something different from their core business is a logical thing to do
+The marketing around translation agencies has been 
+
+- translation agencies are supposed to solve problems
+- they cannot do a shift left because "they're paid to take care of things" - and the client often perceives them as the "problem-fixer". LSPs are talking to localization managers that often do not have the position to solve these problems either
+- they're paid by the word for project management, so any improvement on the client side that simplifies the process and alleviates the project management of the lSP the does not have any immediate effect on the costs
+- the fact that LSPs exist leads companies to believe that treating translation as something different from their core business is a logical thing to do
 
 
 ## How to solve it? 
