@@ -86,15 +86,19 @@ In rare cases there is alignment of processes, but this only happens for the ver
 
 ## Why is this so hard to change?
 
-The marketing around translation agencies has been 
+The narrative that most translation companies use in their marketing is that they solve your multilingual problems. Work with a translation agency, and you are relieved of all this tedious work that you encounter when publishing in multiple languages. This message has as a consequence that companies do not understand that a lot of the tedious work actually originates in their own processes and they need to take ownership in order to really solve the problems that are encountered. 
 
-- translation agencies are supposed to solve problems
-- they cannot do a shift left because "they're paid to take care of things" - and the client often perceives them as the "problem-fixer". LSPs are talking to localization managers that often do not have the position to solve these problems either
-- they're paid by the word for project management, so any improvement on the client side that simplifies the process and alleviates the project management of the lSP the does not have any immediate effect on the costs
-- the fact that LSPs exist leads companies to believe that treating translation as something different from their core business is a logical thing to do
+Translation agencies are paid to "take care of things", so in most cases, the client perceives them as the "problem-fixer". It is incredibly hard for an agency that is in this position to influence the process on the client side. My personal experience while working for a translation agency, is that most clients are surprised if you ask questions about anything related to their business goals and what they need in order to achieve those. Although this should always be the starting point for any activity. 
+
+The same often goes for the localization managers that are running translations within a company. Even they are not able to influence the processes that really need improving, because translation is seen as something completely different from the core business of the company.
+
+My hypothesis is that this is a direct consequence of the narrative of translation companies, that spread the vision that translation is something to outsource, that it is a nuisance that you do not want to have anything to do this. Obviously, they have to tell this story, or they would be out of business real soon. But the question is whether it is true, and if it doesn't increase the issues with multilingual publishing instead of solving them.
 
 
 ## How to solve it? 
+
+
+
 companies to 
 * take ownership of the entire multilingual process
 * take over translation project management (with the intention of erasing it all together by automation)
