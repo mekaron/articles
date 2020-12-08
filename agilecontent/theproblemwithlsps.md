@@ -94,8 +94,10 @@ The same often goes for the localization managers that are running translations 
 
 My hypothesis is that this is a direct consequence of the narrative of translation companies, that spread the vision that translation is something to outsource, that it is a nuisance that you do not want to have anything to do this. Obviously, they have to tell this story, or they would be out of business real soon. But the question is whether it is true, and if it doesn't increase the issues with multilingual publishing instead of solving them.
 
+I believe another narrative is needed to solve what is the real problem. and that is: take ownership.
 
 ## How to solve it? 
+
 
 
 
