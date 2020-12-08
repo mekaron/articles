@@ -5,7 +5,7 @@ _Note: you are now reading the first MVP (minimal viable publication) of my arti
 
 Goal: Show how our current translation ecosystem stops us from delivering real value to end users and is the cause of the lack of effective innovation: innovation that enhances delivering to users what they need, at the time they need it, with a high ROI.  
 
-In this article, I will argue that our current ecosystem reinforces translation to be treated as separate from content creation, leading to a lack of innovation in the translation industry. This is the reason we haven't yet solved the problem of publishing content in multiple languages. It is still slowing down the time to market, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
+In this article, I will argue that our current ecosystem reinforces translation to be treated as separate from content creation, leading to a lack of innovation in the translation industry. This is the reason we have yet to solve the problem of publishing content in multiple languages. It is still slowing down the time to market, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
 
 ## How it all began
 
@@ -28,9 +28,9 @@ Translation companies promised to fix the problems they encountered in the trans
  
 In this digital world, time to market is everything. The sooner you publish or deploy, the sooner you can start making money. Holding off on publishing until everything is perfect is a great pitfall and can destroy the value you create. 
 
-All content is online and can - and will - be changed on the basis of user feedback at any time. People writing content - whether they're in marketing, support or in product, know that they're not algmighty and that they need to adjust their content on the basis of the wisdom of the crowd.
+All content is online and can - and will - be changed on the basis of user feedback at any time. People writing content - whether they're in marketing, support or in product, know that they're not almighty and that they need to adjust their content on the basis of the wisdom of the crowd.
 
-Effectivity of content is key, and whether or not it's effective can be measured in one way only: by giving it to the user. But it needs to be fast. And to reach the full potential: it needs to be fast in all languages. 
+Effectivity of content is key, and whether or not it is effective can be measured in one way only: by giving it to the user. But it needs to be fast. And to reach the full potential: it needs to be fast in all languages. 
 
 Agile methodology in software development and other industries, has also taught us that having multidiscplinary teams collaborate in creating MVPs and iterating over that first version, is far more effective than working in silos, where there is no way "up the waterfall" and problems detected later on in the process can never be fixed where they originate. 
   
@@ -43,9 +43,9 @@ When we make the mindshift to a more agile approach to translation, we start thi
 * We dont't believe in KPIs and error-count metrics as a way to measure quality
 "
 
-While these statements were absolutely unimaginable 20 years ago, the current situation of how online content is stored and the requirements of the world we're living in, are asking for these kinds of bold statements. That is, if we ever want to deliver a high quality multilingal product; quality as defined by the user: what he needs, at the time he needs it, at the costs that he is willing to pay for it. 
+While these statements were absolutely unimaginable 20 years ago, the current situation of how online content is stored and the requirements of the world we are living in, are asking for these kinds of bold statements. That is, if we ever want to deliver a high quality multilingal product; quality as defined by the user: what he needs, at the time he needs it, at the costs that he is willing to pay for it. 
 
-And, of course, this online world also makes it easy to find really good translators, that know how to translate, but also, that understand much more of the translation process than you can ever imagine. I was shocked when only 4 years ago, at a conference, I heard people saying about translators: oh no, they just want to type words on their attic, they don't want to be bothered with client side problems, nor be involved in the process. Some waste of talent and expertise, right? 
+And, of course, this online world also makes it easy to find really good translators, that know how to translate, but also, that understand much more of the translation process than you can ever imagine. I was shocked when only 4 years ago, at a conference, I heard people saying about translators: "oh no, they just want to type words on their attic, they don't want to be bothered with client side problems, nor be involved in the process." Some waste of talent and expertise, right? 
 
 We can store content online before it is published, we can make and track changes at any time, we can find translators online, we can get feedback from our users. We have project management tools in the cloud, we are able to track what has happened when. We can see lean and agile processes implemented in other industries, all we have to do is look at what they do and what they've learned. 
 
@@ -59,9 +59,9 @@ Eh... no
 
 In most companies, translation is still considered a cost instead of an opportunity. Many companies still do not translate their content because they fear the costs and the time it takes, which is of course negatively affecting their international ambitions. In case translation is felt to be necessary, it usually leads to a long delay in time to market, for both content and products. 
 
-You could even argue that our world economics are not reachting its full potential because we cannot overcome the language barriers and we're not taking full advantage of our product potential internationally.
+You could even argue that our world economics are not reachting its full potential because we cannot overcome the language barriers and we are not taking full advantage of our product potential internationally.
 
-Somehow, we are not taking advantage of all the opportunities this new digital world is offering. Translation is still an afterthought for most companies and this is making the translation process run into all kinds of bottlenecks.
+Somehow, we are not using all the opportunities this new digital world is offering. Translation is still an afterthought for most companies and this is making the translation process run into all kinds of bottlenecks.
 
 In a way, it is not surprising this is happening. 
 
@@ -75,7 +75,7 @@ There is usually no contact between the translator and the owner of the content,
 
 One of the main principles of Lean is to optimize the whole: optimizing the entire value stream. Suboptimization is "the practice of focusing on one component of a total and making changes intended to improve that one component and ignoring the effects on the other components". Suboptimization is a problem, not only because you often optimize the wrong component - which does not lead to the intended overall result, but moreover, doing so more often than not has unintended and surprising consequences in places that you cannot see 
 
-Translation companies have optimized their (sub)process and this has led to suboptimization. They have - logically - focused on maximizing their profit, not taking into account what this does to the overall value stream. So eventhough they often have the right intention, their entire operations are focused on efficiency of (their part of) the translation process, and not on the overall business goals of their clients. 
+Translation companies have optimized their process and this has led to suboptimization. They have - logically - focused on maximizing their profit, not taking into account what this does to the overall value stream. So eventhough they often have the right intention, their entire operations are focused on efficiency of (their part of) the translation process, and not on the overall business goals of their clients. 
 
 The big problem that this situation causes is the fact that problems are hardly ever structurally solved. Even when there is a long lasting relationship between a translation agency and a client, and they claim they are working upstream to improve the process, there is usually no one person responsible for the entire process of multilingual content creation. Because this would take a process manager on the client side that systematically monitors the the process of the translation company, or someone from the translation company do the same on the client side. Both very unlikely scenarios.
 
@@ -101,15 +101,15 @@ I believe another narrative is needed to solve the real problem. And that is: ta
 
 What we see is that tooling and processes around translation have become extremely complex, exactly because of this waterfall approach. No wonder a lot of companies  want to get rid of the tedious work that needs to happen when something that went wrong in the beginning of a process, but wasn't too big a problem, explodes in your face at the end of a project when the severeness of the problem is multiplied by the number of languages you are translating into. 
 
-However, if companies take ownership of the translation process, (and refrain from treating their localization/translation department in a waterfall way), they will start to see that translation can point to a lot of issues in the creation of the content, which actually makes that a more scalable process as well. Only then will the real cause of the problem be fixed, and this will enhance not only the translation process, but the entire process. 
+However, if companies take ownership of the translation process, (and refrain from treating their localization/translation department in a waterfall way), they will start to see that translation can point to a lot of issues in the creation of the content. Solving these can actually make that a more scalable process as well. Only then will the real cause of the problem be fixed, and this will enhance not only the translation process, but the entire process. 
 
 Once you start removing waste systematically, you will see that translation project management is no different than any other project management task. I claim that if you integrate your processes and apply an agile and/or lean approach, you do not need any experts in translation. You will get expertise about the several languages straight from your translators.
 
-With some advice on the right tooling and processes, you will be able to build a smooth, automated process for all content, whether it's original or translated content, and this will benefit cost, speed and effectivity of your multilingual publications. 
+With some advice on the right tooling and processes, you will be able to build a smooth, automated process for all content, whether it is original or translated content, and this will benefit cost, speed and effectivity of your multilingual publications. 
 
 # Should LSPs cease to exist?
 
-You might think that I believe that Language Service Providers are the source of all evil, and that I think they should not exist at all. This not entirely the case. I believe that if they can reinvent themselves, and their business model, they can really make a difference when it comes to multilingual publishing. All they  need to do is offer the services that are now all included in the word price as separate services and support their clients that want to take ownership. Examples are: sourcing and educating translators, paying translators, consultancy, solutions. 
+You might think that I believe that Language Service Providers (aka translation agencies) should not exist at all. This not entirely the case. I believe that if they can reinvent themselves, and their business model, they can really make a difference when it comes to multilingual publishing. All they  need to do is offer the services that are now all included in the word price as separate services and support their clients that want to take ownership. Examples are: sourcing and educating translators, paying translators, consultancy, solutions. 
 
 This will have an amazing impact on the translation industry, as a lot of superb solutions are now hidden from the customers, and is built only to make sure their client is locked-in on buying words. And who can blame them? As long as organizations are doing what they've always done, selling words is the most profitable thing to do in the translation industry. 
 
