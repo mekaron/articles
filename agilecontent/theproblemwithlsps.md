@@ -25,7 +25,7 @@ This is how translation companies came into existence. Yuka Nakasone once told m
 
 Translation companies promised to fix the problems they encountered in the translation process, even if they were caused on the client side. They optimized their part of the system, starting off from a signed off source text, and maximized their revenues on that model. Very useful! Until now...
   
- ## moving to an agile mindset in an online world
+ ## Moving to an agile mindset in an online world
  
 In this digital world, time to market is everything. The sooner you publish or deploy, the sooner you can start making money. Holding off on publishing until everything is perfect is a great pitfall and can destroy the value you create. 
 
@@ -56,7 +56,7 @@ Right?
 
 Eh... no
 
-## where we really are
+## Where we really are
 
 In most companies, translation is still considered a cost instead of an opportunity. Many companies still do not translate their content because they fear the costs and the time it takes, which is of course negatively affecting their international ambitions. In case translation is felt to be necessary, it usually leads to a long delay in time to market, for both content and products. 
 
@@ -94,24 +94,32 @@ The same often goes for the localization managers that are running translations 
 
 My hypothesis is that this is a direct consequence of the narrative of translation companies, that spread the vision that translation is something to outsource, that it is a nuisance that you do not want to have anything to do this. Obviously, they have to tell this story, or they would be out of business real soon. But the question is whether it is true, and if it doesn't increase the issues with multilingual publishing instead of solving them.
 
-I believe another narrative is needed to solve what is the real problem. and that is: take ownership.
+This narrative is strenghtened by the business model of translation companies. Because you pay for a translation by the word, this completely obscures the fact that the translation agency is doing everything but translating. They do project management, they source and train translators, they build tools and many other things. And this is all paid by the word. No wonder noone seems to realize that a translation process entails much more, both on the side of the agency as internally, than translating words. 
+
+I believe another narrative is needed to solve the real problem. And that is: take ownership.
 
 ## How to solve it? 
 
+What we see is that tooling and processes around translation have become extremely complex, exactly because of this waterfall approach. No wonder a lot of companies  want to get rid of the tedious work that needs to happen when something that went wrong in the beginning of a process, but wasn't too big a problem, explodes in your face at the end of a project when the severeness of the problem is multiplied by the number of languages you are translating into. 
+
+However, if companies take ownership of the translation process, (and refrain from treating their localization/translation department in a waterfall way), they will start to see that translation can point to a lot of issues in the creation of the content, which actually makes that a more scalable process as well. Only then will the real cause of the problem be fixed, and this will enhance not only the translation process, but the entire process. 
+
+Once you start removing waste systematically, you will see that translation project management is no different than any other project management task. I claim that if you integrate your processes and apply an agile and/or lean approach, you do not need any experts in translation. You will get expertise about the several languages straight from your translators.
+
+With some advice on the right tooling and processes, you will be able to build a smooth, automated process for all content, whether it's original or translated content, and this will benefit cost, speed and effectivity of your multilingual publications. 
+
+# Should LSPs cease to exist?
+
+You might think that I believe that Language Service Providers are the source of all evil, and that I think they should not exist at all. This not entirely the case. I believe that if they can reinvent themselves, and their business model, they can really make a difference when it comes to multilingual publishing. All they  need to do is offer the services that are now all included in the word price as separate services and support their clients that want to take ownership. Examples are: sourcing and educating translators, paying translators, consultancy, solutions. 
+
+This will have an amazing impact on translation processes, as a lot of brilliant tooling is now hidden from the customers, and is built only to make sure their client is locked-in on buying words. And who can blame them? As long as organizations are doing what they've always done, selling words is one of the most profitable things to do in the translation industry. 
+
+# What can happen if organizations take ownership of translations
 
 
 
-companies to 
-* take ownership of the entire multilingual process
-* take over translation project management (with the intention of erasing it all together by automation)
-* align and if necessary integrate with content creation process
-* remove waste systemetically
-* get expertise straight from their translators
 
-LSPs to:
-* offer services that support companies that want to take ownership of the process
 
-## Result would be:
 * a lean, integrated process where all languages are delivered at the same time, giving the same quality to all users, irrespective of their language.
 
 ## Ending statement
