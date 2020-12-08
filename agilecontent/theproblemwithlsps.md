@@ -5,7 +5,6 @@ _Note: you are now reading the first MVP (minimal viable publication) of my arti
 
 Goal: Show how our current translation ecosystem stops us from delivering real value to end users and is the cause of the lack of effective innovation: innovation that enhances delivering to users what they need, at the time they need it, with a high ROI.  
 
-
 In this article, I will argue that our current ecosystem reinforces translation to be treated as separate from content creation, leading to a lack of innovation in the translation industry. This is the reason we haven't yet solved the problem of publishing content in multiple languages. It is still slowing down the time to market, leads to numerous quality issues, and is too expensive to guarantee a proper ROI. 
 
 ## How it all began
@@ -35,7 +34,7 @@ Effectivity of content is key, and whether or not it's effective can be measured
 
 Agile methodology in software development and other industries, has also taught us that having multidiscplinary teams collaborate in creating MVPs and iterating over that first version, is far more effective than working in silos, where there is no way "up the waterfall" and problems detected later on in the process can never be fixed where they originate. 
   
-When we make the mindshift to a more agile approach to translation, we start thinking differently about a lot of things. Semir Mehadzic, one of my fellow agile minds in the localization industry () gives some examples in reply to one of my posts on LinkedIn:
+When we make the mindshift to a more agile approach to translation, we start thinking differently about a lot of things. Semir Mehadzic, one of my fellow agile minds in the localization industry gives some examples in reply to one of my posts on LinkedIn:
 "
 * We don't want to do LQA (Language Quality assurance aka reviewing - ed.) in the same environment/context as the translators
 * We're not even sure separate LQA is needed at all
@@ -112,18 +111,12 @@ With some advice on the right tooling and processes, you will be able to build a
 
 You might think that I believe that Language Service Providers are the source of all evil, and that I think they should not exist at all. This not entirely the case. I believe that if they can reinvent themselves, and their business model, they can really make a difference when it comes to multilingual publishing. All they  need to do is offer the services that are now all included in the word price as separate services and support their clients that want to take ownership. Examples are: sourcing and educating translators, paying translators, consultancy, solutions. 
 
-This will have an amazing impact on translation processes, as a lot of brilliant tooling is now hidden from the customers, and is built only to make sure their client is locked-in on buying words. And who can blame them? As long as organizations are doing what they've always done, selling words is one of the most profitable things to do in the translation industry. 
+This will have an amazing impact on the translation industry, as a lot of superb solutions are now hidden from the customers, and is built only to make sure their client is locked-in on buying words. And who can blame them? As long as organizations are doing what they've always done, selling words is the most profitable thing to do in the translation industry. 
 
-# What can happen if organizations take ownership of translations
+# What could happen if organizations take ownership of translations
+If a company understands how to build processes and automate them, and takes the entire process into account, beautiful things can happen. Translations could be published at virtually the same time as the original, source and target content would be treated in the same way, the process would be easily scalable, meaning that adding more languages or more content is a no-brainer. Their content would improve because of the commitment of the translators, who are now included in the process instead of seen as a typing machine. And all waste could be removed from the process, leading to a decrease of costs, both internally and externally.
 
-
-
-
-
-* a lean, integrated process where all languages are delivered at the same time, giving the same quality to all users, irrespective of their language.
-
-## Ending statement
-We see that companies are ready to take this step. So either LSPs will make the change, or your clients will. It's up to you. 
+The quality of the product would be the same for all users, no matter the language they speak. Isn't that what we are all trying to achieve? 
 
 ## Call to action
 
@@ -132,7 +125,7 @@ _Do you want to know how to take ownership of your translation process and reall
 
 
 
-
+THE END
 
 
 
