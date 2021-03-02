@@ -65,8 +65,12 @@ So what's the process to look at? It's your business process! And translation sh
 - There is no such thing as a translation process. 
 
 
+## What will happen?
 
-
+- If the process manager masters a good system to detect bottlenecks, he will slowly but surely speed up the delivery process of the product at hand, including the tranlsations. 
+- There will be no more discussions about translation quality and how to measure it; it will be about product quality and it will be measured in the same way as you do with your source language. If that's not measured, then maybe start there... ;)
+- Issues in translation will be solved where they originated. More often than not that's where the content is created
+- no more workarounds and band-aids in order to make a deadline at all costs, which complicates the translation part of the process incredibly
 
 
 
