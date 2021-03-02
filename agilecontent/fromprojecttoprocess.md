@@ -52,8 +52,19 @@ First: What is the difference between managing a project and a process?
 And what is the difference between a project manager and a process manager? 
 A project manager makes sure all tasks are done in order to receive a result that are set for that project. A process manager continuously improves the process and is therefore more concerned with the quality of the process, rather than the quality of the outcome. Where of course the belief is that a process of high quality always leads to a predictable and qualitative result. 
 
-But that's not all
-The key thing about processes is that if you improve only part of it, this will lead to the so-called 'sub-optimization'. Suboptimization - optimizing subprocesses - leads to less problems for the people involved in that subprocess, but it often leads to major problems 
+## But that's not all
+
+- well known in the literature: suboptimization leads to problems
+- one of the issues if you do process management for subprocesses: how do you define your requirements? Need to be defined from the user perspective, users don't care about subproducts.
+
+So what's the process to look at? It's your business process! And translation should be part of it. 
+
+## concluding: what does this mean?
+- there should be process managers for your business processes and if there is multilingual content involved, they should be responsible for the **process** of translating it
+- (technical) localization people should behave as solution consultants that can assist with finding solutions for the improvements that the process manager addresses
+- There is no such thing as a translation process. 
+
+
 
 
 
