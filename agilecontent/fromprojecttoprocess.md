@@ -29,12 +29,29 @@ What is often thought of as a solution:
 - that tries to prevent/foresee problems that will arise in that project
 - so that all content will be published in time in all languages 
 
+What often happens:
 
-But before we come up with the solution: what is the real cause of the problem?
+- a lot of problems cannot foreseen, nor prevented, but need to be solved over and over again
+- basically: content to be translated is still thrown over a wall, now to a Localization department, and then to an LSP (translation agency)
+- a lot of tasks are duplicated. Leading to unnecessary loss of money and time 
+- Localization project managers are not connected with the business goals and therefore they do not have any insight, nor power to make necessary changes on either side of their subprocess (content creation and translation). We created yet another stressful job where people have to deal with problems they didn't create and cannot solve structurally
+
+Maybe step back a little: what is the real cause of the problem?
 - that issues are not fixed structurally
 And why is that? 
 - because we're looking at translation as projects, that need to be delivered at a certain time, no matter what - separate from content creation.
-- with quality metrics (costs, defects, timelines) that have very little to do with the demands that are specified for the product. 
+- with  metrics (costs, "quality", timelines) that have very little to do with the demands that are specified for the product. 
+
+What is the right solution:
+- not only to view creation of multilingual content as a process - and not as a project, but let translation be part of business processes, instead of trying to create a "one size fits all", separate process
+
+First: What is the difference between managing a project and a process? 
+"Simply put, a process is a set procedure that involves a sequence of steps that need to be taken in order to produce a result, whereas a project is a temporary course of action that aims to deliver a distinctive product, service, or result."
+
+And what is the difference between a project manager and a process manager? 
+A project manager makes sure all tasks are done in order to receive a result that are set for that project. A process manager looks at - and improves - the process and is therefore more concerned with the quality of the process, rather than the quality of the outcome. Where of course the belief is that a qualitative process always leads to a predictable and qualitative result.
+
+Why does this matter
 
 
 
