@@ -71,7 +71,7 @@ So what's the process to look at? It's your business process! And translation sh
 - There will be no more discussions about translation quality and how to measure it; it will be about product quality and it will be measured in the same way as you do with your source language. If that's not measured, then maybe start there... ;)
 - Issues in translation will be solved where they originated. More often than not that's where the content is created
 - no more workarounds and band-aids in order to make a deadline at all costs, which complicates the translation part of the process incredibly
-- your project manager will become someone who facilitates a collaborative workflow, and makes sure conversations happen between people
+- your project manager will become obsolete, as an explicit goal of the process improvements
 
 
 ## How?
