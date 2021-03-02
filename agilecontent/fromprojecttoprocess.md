@@ -7,12 +7,54 @@ and how from this, it follows that you should not have a localization dpts that 
 Introduction:
 - more and more organizations feel the need to install a localization department that takes care of all translations and 
 that is separate from the other departments in the company. 
-- in this article we explain what the problem is that is attempted to be solved with this.
+- in this article we explain what the problem is that is attempted to be solved by doing this.
 - and we propose a different approach
+- waarin de focus ligt op de bedrijfsprocessen ipv het in 1 keurslijf stoppen van alle vertaalprojecten
+
+
+the issue with translation
+
+- is that translation is not the issue
+- it appeared translation agencies couldn't solve the entire puzzle
+- so companies were still left with a lot of work, usually:
+          - at the end of the project
+          - with problems that can only be fixed with workarounds
+
+So let's define the problem
+- the problem is that unexpected errors come up at the end of a project
+
+What is often thought of as a solution:
+- build an internal Localization Department 
+- that runs projects after content has been delivered in the source language
+- that tries to prevent/foresee problems that will arise in that project
+- so that all content will be published in time in all languages 
+
+
+But before we come up with the solution: what is the real cause of the problem?
+- that issues are not fixed structurally
+And why is that? 
+- because we're looking at translation as projects, that need to be delivered at a certain time, no matter what - separate from content creation.
+- with quality metrics (costs, defects, timelines) that have very little to do with the demands that are specified for the product. 
 
 
 
 
+
+
+
+
+
+
+
+Reality:
+- a lot of problems cannot foreseen, nor prevented
+- Localization project managers are not connected with the business goals and therefore they do not have any insight, nor power to make necessary changes
+- basically: alsnog over de muur gegooid, nu naar een LD en vervolgens naar een LSP
+- alles wordt nu dubbel uitgevoerd
+
+
+What is the real problem:
+- 
 
 
 
