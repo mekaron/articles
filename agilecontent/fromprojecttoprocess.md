@@ -38,6 +38,7 @@ What often happens:
 
 Maybe step back a little: what is the real cause of the problem?
 - that issues are not fixed structurally
+
 And why is that? 
 - because we're looking at translation as projects, that need to be delivered at a certain time, no matter what - separate from content creation.
 - with  metrics (costs, "quality", timelines) that have very little to do with the demands that are specified for the product. 
