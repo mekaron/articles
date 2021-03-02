@@ -49,9 +49,11 @@ First: What is the difference between managing a project and a process?
 "Simply put, a process is a set procedure that involves a sequence of steps that need to be taken in order to produce a result, whereas a project is a temporary course of action that aims to deliver a distinctive product, service, or result."
 
 And what is the difference between a project manager and a process manager? 
-A project manager makes sure all tasks are done in order to receive a result that are set for that project. A process manager looks at - and improves - the process and is therefore more concerned with the quality of the process, rather than the quality of the outcome. Where of course the belief is that a qualitative process always leads to a predictable and qualitative result.
+A project manager makes sure all tasks are done in order to receive a result that are set for that project. A process manager continuously improves the process and is therefore more concerned with the quality of the process, rather than the quality of the outcome. Where of course the belief is that a process of high quality always leads to a predictable and qualitative result. 
 
-Why does this matter
+But that's not all
+The key thing about processes is that if you improve only part of it, this will lead to the so-called 'sub-optimization'. Suboptimization - optimizing subprocesses - leads to less problems for the people involved in that subprocess, but it often leads to major problems 
+
 
 
 
