@@ -51,6 +51,7 @@ What happens if you treat translation as part of a primary process - and have so
 - you focus on process improvement, leading to faster turnaround times every single time you run the process. 
 - you see what value is added by the actions of the translation activities
 - you discover the waste and its root causes - usually they're in the content creation part
+- you will get rid of the task of project management - the end of the waste of talent
 - eventually you will deliver all languages at approximately the same time - if that is valuable to your user experience (which is usually is)
 
 From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product. There is no such thing as a translation process, there are only mulitilingual product processes.
@@ -60,7 +61,7 @@ Which also leads to the question what a translation department is supposed to do
 
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
