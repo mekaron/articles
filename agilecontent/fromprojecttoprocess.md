@@ -12,14 +12,14 @@ Problem solved. Right?
 
 Not really. 
 - looking at it this way is creating inequality between languages. Translated languages are always lagging behind the original ones. This means your 
-- eventhough translation is a facilitator for international growth, it is seen as a cost center
+- eventhough translation is essential for international growth, it is seen as a cost center
 - Project managers are under pressure to make the time to market as fast as possible but have no influence on the aspects that are essential for achieving that
 
 Real problem:
 - what people fail to see is that the issue lies in the organizational structure - and not in people or systems
-- tradionally, translation is put into a matrix-organisation, where additional processing is done after the production is done. 
+- traditionally, translation is put into a matrix-organisation, where additional processing is done after the production is done. 
 
-- looking at translation as separate projects from your business processes, you lose track of your value stream. There is no connection to what your user is willing to pay for. 
+- looking at translation as separate projects from your primary processes, you lose track of your value stream. There is no connection to what your user is willing to pay for. 
 
 Leads to:
 - endless discussions about quality and what that's allowed to cost
@@ -29,26 +29,41 @@ La solution:
 
 - see that localizing your content is a process, not a project. 
 - see that you're not delivering translations but a multilingual product
-- from this it will follow that translation processes must be part of your primary processes, part of your value chain and should not be handled in a project organization nor in a secundary process
+- from this it will follow that translation processes must be part of your primary production processes, part of your value chain and should not be handled in a project organization nor in a secundary process
 
+So what is the difference between a project and a process? And why does it matter?
 
-so what is the difference between a project and a process? And why does it matter?
+"Simply put, a process is a set procedure that involves a sequence of steps that need to be taken in order to produce a result, whereas a project is a temporary course of action that aims to deliver a distinctive product, service, or result."
 
-you need to look at your value stream: what is your user willing to pay for? In order to do this, you need to map your value stream, which is of course a process. 
+And what is the difference between a project manager and a process manager? 
+
+A project manager makes sure all tasks are done in order to receive a result that are set for that project. A process manager continuously improves the process and is therefore more concerned with the quality of the process, rather than a deadline. Where of course the belief is that a process of high quality always leads to a predictable and qualitative result.
+
+So what happens if you treat translation as a project? 
+
+- If you look at translation as a project, the focus on the value chain is lost. This means there is no system to discover whether the actions that are taken are actually adding value to the product, aka what the user is willing to pay for. This is why translation is so often seen as a cost center. 
+
+- The people working on the project are just focused on the task at hand: delivering the content in time (meaning: as requested by someone in the company), with a constant search for metrics to see what the translation quality is. As a project manager, you focus on fixing issues in an ad hoc manner "no matter what", just to make a deadline. And if you try to improve, you often come up with even more spreadsheets to control the project - to being able to complete your task and making the deadline.
  
-If you start looking at translation as a project, this entire value stream is lost. The people working on it are focused on the task at hand: delivering the content in time, and they come up with their own metrics to see what quality is. 
- 
-What then happens, is that if you focus on a project, you focus on fixing  issues  in an ad hoc manner "no matter what", just to make a deadline. And even if you do try to improve, and you improve on the basis of what happened in your project, you often come up with even more spreadsheets to control the project - to being able to complete your task and making the deadline.
- 
-And then even if you have a project manager that can still see clearly after having to deal with the shit that comes your way when you're a translation project manager, and that sees the real cause of the problems they're experiencing, they do not have the power to change anything. 
- 
-If you're running a process, and you are focusing on the improvements rather than the deadline, you will be able to pinpoint the actual cause of problems. From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product.
- 
-If you start seeing things this way, this will lead to one possible conclusion only: translation processes in your organization must be aligned, or even integrated with the several business processes. Which means: there is no such thing as a translation process, there are only mulitilingual product processes.
+- even if your project manager can still see clearly after having to deal with the operational tasks that comes your way when you're in a translation project, and that sees the real cause of the problems they're experiencing, they usually do not have the power to change anything, nor the system to show why a change is necessary.  
+
+What happens if you treat translation as part of a primary process - and have someone own the entire process? 
+- you focus on process improvement, leading to faster turnaround times every single time you run the process. 
+- you see what value is added by the actions of the translation activities
+- you discover the waste and its root causes - usually they're in the content creation part
+- eventually you will deliver all languages at approximately the same time - if that is valuable to your user experience (which is usually is)
+
+From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product. There is no such thing as a translation process, there are only mulitilingual product processes.
  
 Which also leads to the question what a translation department is supposed to do. As project management is supposed to be taken out of the equation - as a natural consequence of the improvements - and process management should be done on the entire process, as to optimize the whole, there is really no need for such a department.
  
-Of course, you might need some expertise on tooling or something, but that's really all I can think of. 
+
+
+
+
+
+
+
 
 
 
