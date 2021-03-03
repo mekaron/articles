@@ -3,6 +3,56 @@ Outline 2: From project manager to process manager
 Goal: to show what the difference is between running a project and running a process, to show what it means to be a process manager, 
 and how from this, it follows that you should not have a localization dpts that execute projects
 
+Introduction:
+- we're all used to looking at translation as projects
+- seems so logical: you're done with the source and then you "just" translate it into another language
+- and then of course, you hire people that can run these projects to make sure this goes as fast and smooth as possible - without anyone else being bothered by it
+
+Problem solved. Right? 
+
+Not really. 
+- looking at it this way is creating inequality between languages. Translated languages are always lagging behind the original ones. This means your 
+- eventhough translation is a facilitator for international growth, it is seen as a cost center
+- Project managers are under pressure to make the time to market as fast as possible but have no influence on the aspects that are essential for achieving that
+
+Real problem:
+- what people fail to see is that the issue lies in the organizational structure - and not in people or systems
+- tradionally, translation is put into a matrix-organisation, where additional processing is done after the production is done. 
+
+- looking at translation as separate projects from your business processes, you lose track of your value stream. There is no connection to what your user is willing to pay for. 
+
+Leads to:
+- endless discussions about quality and what that's allowed to cost
+- no connection with the metrics that tell you what the user wants and that can help you improve your output so that there is maximum value added for the user. 
+
+La solution:
+
+- see that localizing your content is a process, not a project. 
+- see that you're not delivering translations but a multilingual product
+- from this it will follow that translation processes must be part of your primary processes, part of your value chain and should not be handled in a project organization nor in a secundary process
+
+
+so what is the difference between a project and a process? And why does it matter?
+
+you need to look at your value stream: what is your user willing to pay for? In order to do this, you need to map your value stream, which is of course a process. 
+ 
+If you start looking at translation as a project, this entire value stream is lost. The people working on it are focused on the task at hand: delivering the content in time, and they come up with their own metrics to see what quality is. 
+ 
+What then happens, is that if you focus on a project, you focus on fixing  issues  in an ad hoc manner "no matter what", just to make a deadline. And even if you do try to improve, and you improve on the basis of what happened in your project, you often come up with even more spreadsheets to control the project - to being able to complete your task and making the deadline.
+ 
+And then even if you have a project manager that can still see clearly after having to deal with the shit that comes your way when you're a translation project manager, and that sees the real cause of the problems they're experiencing, they do not have the power to change anything. 
+ 
+If you're running a process, and you are focusing on the improvements rather than the deadline, you will be able to pinpoint the actual cause of problems. From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product.
+ 
+If you start seeing things this way, this will lead to one possible conclusion only: translation processes in your organization must be aligned, or even integrated with the several business processes. Which means: there is no such thing as a translation process, there are only mulitilingual product processes.
+ 
+Which also leads to the question what a translation department is supposed to do. As project management is supposed to be taken out of the equation - as a natural consequence of the improvements - and process management should be done on the entire process, as to optimize the whole, there is really no need for such a department.
+ 
+Of course, you might need some expertise on tooling or something, but that's really all I can think of. 
+
+
+
+
 
 Introduction:
 - more and more organizations feel the need to install a localization department that takes care of all translations and 
