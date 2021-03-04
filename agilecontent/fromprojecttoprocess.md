@@ -65,7 +65,8 @@ What happens if you treat translation as part of a primary process - and have so
 - you will get rid of the task of project management - the end of the waste of talent
 - eventually you will deliver all languages at approximately the same time - if that is valuable to your user experience (which it usually is)
 
-From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product. There is no such thing as a translation process, there are only mulitilingual product processes.
+From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product. There is no such thing as a translation process, there are only mulitilingual product processes. To make it more clear:
+- there are multiple primary processes that contain translation. One for the creation of a multilingual software product. One for the creation of multilingual support content. One for the creation of international marketing content, etc, etc. 
  
 Which also leads to the question what a translation department is supposed to do. As project management is supposed to be taken out of the equation - as a natural consequence of the improvements - and process management should be done on the entire process, as to optimize the whole, there is really no need for such a department. 
 
