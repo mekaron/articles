@@ -58,11 +58,19 @@ So what happens if you treat translation as a project?
 - even if your project manager can still see clearly after having to deal with the operational tasks that comes your way when you're in a translation project, and that sees the real cause of the problems they're experiencing, they usually do not have the power to change anything, nor the system to show why a change is necessary. There is usually no connection between the strategic business goals and the people in the localization department.
 
 What happens if you treat translation as part of a primary process - and have someone own the entire process? 
-- you focus on process improvement, leading to faster turnaround times every single time you run the process. 
-- you see what value is added by the actions of the translation activities
-- you only improve what actually adds value, in most cases leading to a lot less review steps and faster turn around times
-- you discover the waste and its root causes - usually they're in the content creation part
+
+- There is a focus on process improvement, leading to faster turnaround times every single time you run the process. Delivering a multilingual product as fast as possible is the challenge at hand, a completely different challenge from 'delivering translations as fast as possible'.
+- There will be no more discussions about translation quality and how to measure it; it will be about product quality and it will be measured in the same way as you do with your source language. If that's not measured, then maybe start there... ;)
+- Issues in translation will be solved where they originated. More often than not that's where the content is created
+- you remove all things that do not add value to the user experience, in most cases leading to a lot less review steps and faster turn around times
+- no more workarounds and band-aids in order to make a deadline at all costs, which complicates the translation part of the process incredibly
 - you will get rid of the task of project management - the end of the waste of talent
+
+
+
+- you see what value is added by the actions of the translation activities
+- - you discover the waste and its root causes - usually they're in the content creation part
+
 - eventually you will deliver all languages at approximately the same time - if that is valuable to your user experience (which it usually is)
 
 From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product. There is no such thing as a translation process, there are only mulitilingual product processes. To make it more clear:
@@ -71,8 +79,9 @@ From this it will inevitably follow that you need a process owner that does have
 Which also leads to the question what a translation department is supposed to do. As project management is supposed to be taken out of the equation - as a natural consequence of the improvements - and process management should be done on the entire process, as to optimize the whole, there is really no need for such a department. 
 
 What do you need:
-- expertise on process management and process improvements
+- experts on process management and process improvements
 - solution architects
+- people that can translate user data and metrics into specific adjustments for that language
 
 So what about localization experts? 
 - They're already out there. They're called translators.
