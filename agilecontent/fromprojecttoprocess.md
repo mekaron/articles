@@ -1,8 +1,9 @@
 Outline 2: Move translation from a project organization to the primary processes of your company
 
+## This article
 The goal of this article is to show that the cause of the translation issues that most companies run into when they want to expand to new countries are related to the organizational structure. I will show the differences between running a project and running a process, and argue that translation should be seen as part of the primary process, rather than being dealt with in a project organization. And how from this, it follows that you should not have a localization departs that takes care of translations.
 
-Introduction:
+## Introduction:
 Traditionally, translations have always been seen as projects that are separate from the creation of a product. It feels kind of logical, doesn't it, to first make something ready in one language, and then have a project in which you "just" translate it into multiple languages. And as it started to become more and more apparent that this was actually a lot of work, companies started hiring project managers to do that work so that the rest of the company could just continue doing what they were doing before. And the translated content or product needs to be delivered faster, you simply put more pressure on them to make the deadline.
 
 People in this role know the premise of this is simply not true and you cannot separate translations from the creation of the content. The effects of this misconception are quite dramatic: it creates an inequality between languages, leading to demonstrably worse results in international market penetration. 
@@ -24,8 +25,15 @@ This gap between the user experience and the translation projects lead to a numb
 
 What is hardly ever discussed, let alone measured, is how bottlenecks in the translation part of processes affect the business goals, for instance in terms of time to market, opportunity costs, scalability problems and unfit content for foreign users. This also means that it is very hard to discover what MUST be improved in order to add maximum value for the end user.
 
+## What is necessary: a mind shift
 
-## What needs to change: the mind set
+The important thing to realize is that translation in itself is not something a user would pay for. It's a translated product that has value, for instance a software product. This is equally true for marketing content: the translation in itself is worthless, only in combination with a good marketing strategy, SEO and a medium to publish the content it can bring value.
+
+You are to create a multilingual product. The way multilingual content is created, is completely dependent on the requirements of the user and can be different for each business process and each company. It can be that for some processes Machine Translation is perfectly fine, because speed is so valuable to the user and small translation errors are less of a deal breaker. And for some processes you should forget about translating all together and rather choose for some form of co-creation, where content is produced in multiple languages at the same time. 
+
+But you can only know which method you have to choose if you can measure the effect of your improvements by looking at the business metrics. And for this, you need to include making your product multilingual in your value stream. And this means that translation is a part of your primary operational processes and should not be handled in a project organization, nor in a secundary process. There is no such thing as a translation process, there are multiple primary processes that have a multilingual component. Including activities in your process is the only way to discover which of your activities add value to your product. 
+
+
 
 - see that you're not delivering translations but a multilingual product
 - see that localizing your content is a process, not a project. 
