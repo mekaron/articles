@@ -6,9 +6,20 @@ The goal of this article is to show that the cause of the translation issues tha
 ## Introduction:
 Traditionally, translations have always been seen as projects that are separate from the creation of a product. It feels kind of logical, doesn't it, to first make something ready in one language, and then have a project in which you "just" translate it into multiple languages. And as it started to become more and more apparent that this was actually a lot of work, companies started hiring project managers to do that work so that the rest of the company could just continue doing what they were doing before. And the translated content or product needs to be delivered faster, you simply put more pressure on them to make the deadline.
 
-People in this role know the premise of this is simply not true and you cannot separate translations from the creation of the content. The effects of this misconception are quite dramatic: it creates an inequality between languages, leading to demonstrably worse results in international market penetration. 
+People in this role know this premise is simply not true and you cannot separate translations from the creation of the content. The effects of this misconception are quite dramatic: it creates an inequality between languages, leading to demonstrably worse results in international market penetration. 
 
 In order to solve this, localization project managers are constantly fighting to get acknowledgement for the fact that they're running into problems because of what happens earlier, when the content is created. Their solution usually is to try to be advisors to all departments, basically telling people to change the way they work so the Loc Department won't experience as many problems. This usually doesn't work out so well. Most Localization Managers just hit a wall when trying to accomplish anything outside their own department. Which leaves them being the person always trying to make people's lives harder.
+
+## distinguishing projects from processes
+
+Projects and processes might seem very similar, but they're fundamentally different in how you achieve results
+
+Projects are one-off events, that have a fixed time, a fixed scope and fixed resources. Project managers are to deliver the result on a deadline, without having to account for how they do this. If they run into problems, they usually fix it in an ad hoc manner, because the only purpose is to deliver on time. A project consists of a number of phases.  
+
+Processes run in repeatable cycles. Pocess managers make sure the process runs in flow and is therefore predictable. They detect bottlenecks and find the root cause. In order to solve these bottlenecks and improve the process, they could initiate small projects. 
+
+Although a lot of steps in a translation project are repeated over and over again, so you could argue it has aspects of a process, in most cases they are handled as projects. Budgets, translators and other resources are allocated for the project specifically, styleguides and terminology lists are created, scope must be defined and there is a specific deadline. There is a project manager who sends out files and tells translators and other project employees what to do when. 
+
 
 ## The real problem? The matrix organization
 What most companies fail to see is that the issue lies in the organizational structure. And the people that are capable of seeing this - the localization project managers, need to be quite couragious to advocate it, as it would take being open to making themselves and their department obsolete.
