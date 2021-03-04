@@ -31,13 +31,10 @@ The important thing to realize is that translation in itself is not something a 
 
 You are to create a multilingual product. The way multilingual content is created, is completely dependent on the requirements of the user and can be different for each business process and each company. It can be that for some processes Machine Translation is perfectly fine, because speed is so valuable to the user and small translation errors are less of a deal breaker. And for some processes you should forget about translating all together and rather choose for some form of co-creation, where content is produced in multiple languages at the same time. 
 
-But you can only know which method you have to choose if you can measure the effect of your improvements by looking at the business metrics. And for this, you need to include making your product multilingual in your value stream. And this means that translation is a part of your primary operational processes and should not be handled in a project organization, nor in a secundary process. There is no such thing as a translation process, there are multiple primary processes that have a multilingual component. Including activities in your process is the only way to discover which of your activities add value to your product. 
+But you can only know which method you have to choose if you can measure the effect of your improvements by looking at the business metrics. And for this, you need to include making your product multilingual in your value stream. And this means that translation is a part of your primary operational processes and should not be handled in a project organization, nor in a secundary process. There is no such thing as a translation process, there are multiple primary processes that have a multilingual component. Including activities in your primary process is the only way to discover which of your activities add value to your product. 
 
 
 
-- see that you're not delivering translations but a multilingual product
-- see that localizing your content is a process, not a project. 
-- from this it will follow that translation processes must be part of your primary production processes, part of your value chain and should not be handled in a project organization nor in a secundary process
 
 So what is the difference between a project and a process? And why does it matter?
 
