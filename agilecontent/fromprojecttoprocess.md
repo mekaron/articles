@@ -1,38 +1,31 @@
-Outline 2: From project manager to process manager
+Outline 2: Move translation from a project organization to the primary processes of your company
 
-Goal: to show what the difference is between running a project and running a process, to show what it means to be a process manager, 
-and how from this, it follows that you should not have a localization dpts that execute projects
+The goal of this article is to show that the cause of the translation issues that most companies run into when they want to expand to new countries are related to the organizational structure. I will show the differences between running a project and running a process, and argue that translation should be seen as part of the primary process, rather than being dealt with in a project organization. And how from this, it follows that you should not have a localization departs that takes care of translations.
 
 Introduction:
-- we're all used to looking at translation as projects
-- seems so logical: you're done with the source and then you "just" translate it into another language
-- and then of course, you hire people that can run these projects to make sure this goes as fast and smooth as possible - without anyone else being bothered by it
+Traditionally, translations have always been seen as projects that are separate from the creation of a product. It feels kind of logical, doesn't it, to first make something ready in one language, and then have a project in which you "just" translate it into multiple languages. And as it started to become more and more apparent that this was actually a lot of work, companies started hiring project managers to do that work so that the rest of the company could just continue doing what they were doing before. And the translated content or product needs to be delivered faster, you simply put more pressure on them to make the deadline.
 
-Problem solved. Right? 
+People in this role know the premise of this is simply not true and you cannot separate translations from the creation of the content. The effects of this misconception are quite dramatic: it creates an inequality between languages, leading to demonstrably worse results in international market penetration. 
 
-Not really. 
-- looking at it this way is creating inequality between languages. Translated languages are always lagging behind the original ones. This means your 
-- eventhough translation is essential for international growth, it is seen as a cost center
-- Project managers are under pressure to make the time to market as fast as possible but have no influence on the aspects that are essential for achieving that
+In order to solve this, localization project managers are constantly fighting to get acknowledgement for the fact that they're running into problems because of what happens earlier, when the content is created. Their solution usually is to try to be advisors to all departments, basically telling people to change the way they work so the Loc Department won't experience as many problems. This usually doesn't work out so well. Most Localization Managers just hit a wall when trying to accomplish anything outside their own department. Which leaves them being the person always trying to make people's lives harder.
 
-The task that most Localization managers are trying to accomplish:
-- make a shift left, make sure translation is no longer an "afterthought". Because everyone remotely familiar with translation understands that you should create your product "with translation in mind". 
-- How do they do this? Create awareness, be present, warn people for problems that will arise, ... 
+## The real problem? The matrix organization
+What most companies fail to see is that the issue lies in the organizational structure. And the people that are capable of seeing this - the localization project managers, need to be quite couragious to advocate it, as it would take being open to making themselves and their department obsolete.
 
-Most Localization Managers, however, just hit a wall when trying to accomplish anything outside their own department. Which leaves them being the person always trying to make people's lives harder. 
+By looking at translations as projects, what you do is you establish a project organization. In matrix organizations you usually have projects in order to improve the primary or supporting processes, but here the projects are meant to do additional processing on the products coming out of your operational process. 
 
-Real problem:
-- what people fail to see is that the issue lies in the organizational structure - and not in people or systems
-- traditionally, translation is put into a matrix-organisation, where additional processing is done after the production is done. 
+These projects have no connection with the value stream of the primary processes. For clarity's sake, here's a definition of a value stream:
 
-- looking at translation as separate projects from your primary processes, you lose track of your value stream. There is no connection to what your user is willing to pay for. 
+"A value stream is a collection of activities that function together. The value stream customer has certain desires, and the value stream consists of work activities dedicated to serving that customer. Value streams and their customers cannot be separated: The focus on customer gives the value stream its purpose." Source: https://www.bptrends.com/publicationfiles/FOUR%2004-009-ART-Value%20Chains-Brown.pdf
 
-Leads to:
-- endless discussions about quality and what that's allowed to cost
-- no connection with the business goals or the metrics that tell you what the user wants and that can help you improve your output so that there is maximum value added for the user. 
-- no clear numbers on what the bottlenecks in the translation actually costs the company, in terms of opportunity costs, delay in time to market and unfit content for several markets
+The value stream helps you decide which activities in your primary process add value the user is willing to pay for. The fact that translation is not considered to be part of this value stream is the main reason why translation is often seen as a cost center; no structure is in place that can help you decide whether the activities that take place actually add value for the user, and to which extent. 
 
-What needs to change: the mind set
+This gap between the user experience and the translation projects lead to a number of issues that Localization People never get tired of discussing and building tools for. One of those topics is the metrics for Translation Quality, but also the focus on Machine Translation as the most disrupting technology in our field is in no way related to the actual problems that you see when you look at multilingual products from the viewpoint of the user.
+
+What is hardly ever discussed, let alone measured, is how bottlenecks in the translation part of processes affect the business goals, for instance in terms of time to market, opportunity costs, scalability problems and unfit content for foreign users. This also means that it is very hard to discover what MUST be improved in order to add maximum value for the end user.
+
+
+## What needs to change: the mind set
 
 - see that you're not delivering translations but a multilingual product
 - see that localizing your content is a process, not a project. 
