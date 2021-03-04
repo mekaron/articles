@@ -55,29 +55,22 @@ If you see translation as part of your business processes, the following things 
 - There will be no more discussions about translation quality and how to measure it; it will be about product quality and it will be measured in the same way as you do with your source language. If that is not measured yet, it might be wise to start there...
 - Resources can be hired for a predictable number of hours every day or week. No more resource planning. 
 - Issues in translation will be solved where they originated. More often than not that is where the content is created
-- You remove all things that do not add value to the user experience, in most cases leading to a lot less review steps and faster turn around times
+- You identify and remove all activities that do not add value to the user experience, in most cases leading to a lot less review steps and faster turn around times
 - No more workarounds and band-aids in order to make a deadline at all costs, which complicates the translation part of the process incredibly
 - You will get rid of the task of project management - the end of the waste of talent
 
 
+## What do you need
+Including translation in your primary process leads to big changes in your organizational structure. The roles that you need are the following:  
 
+- process managers for the primary processes, including translation
+- solution architects, with knowledge of content & localization systems
+- translators
 
-## What do you need:
-- process managers
-- solution architects
-- people that can translate user data and metrics into specific adjustments for that language
+Which leads to the question what a translation department is supposed to do. As project management is supposed to be taken out of the equation - as a natural consequence of the improvements - and process management should be done on the entire process, as to optimize the whole, I would say that there is really no need for such a department. 
 
-
-
-
-
-From this it will inevitably follow that you need a process owner that does have the power to oversee the entire process that creates value for your user. This is never translation in itself. It is always a multilingual product. There is no such thing as a translation process, there are only mulitilingual product processes. To make it more clear:
- 
-Which also leads to the question what a translation department is supposed to do. As project management is supposed to be taken out of the equation - as a natural consequence of the improvements - and process management should be done on the entire process, as to optimize the whole, there is really no need for such a department. 
-
-
-So what about localization experts? 
-- They're already out there. They're called translators.
+## So what about localization expertise?
+They're in the list above. They're called translators.
   
 
 
