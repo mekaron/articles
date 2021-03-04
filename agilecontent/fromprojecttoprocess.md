@@ -25,6 +25,15 @@ This gap between the user experience and the translation projects lead to a numb
 
 What is hardly ever discussed, let alone measured, is how bottlenecks in the translation part of processes affect the business goals, for instance in terms of time to market, opportunity costs, scalability problems and unfit content for foreign users. This also means that it is very hard to discover what MUST be improved in order to add maximum value for the end user.
 
+## What is the difference? And why does it matter?
+
+"Simply put, a process is a set procedure that involves a sequence of steps that need to be taken in order to produce a result, whereas a project is a temporary course of action that aims to deliver a distinctive product, service, or result."
+
+A project manager makes sure all tasks are done in order to receive the result that are set for that project. A process manager continuously improves the process and is therefore more concerned with the quality of the process, rather than a deadline. A high quality process leads to a predictable and qualitative result.
+
+
+
+
 ## What is necessary: a mind shift
 
 The important thing to realize is that translation in itself is not something a user would pay for. It's a translated product that has value, for instance a software product. This is equally true for marketing content: the translation in itself is worthless, only in combination with a good marketing strategy, SEO and a medium to publish the content it can bring value.
@@ -34,15 +43,6 @@ You are to create a multilingual product. The way multilingual content is create
 But you can only know which method you have to choose if you can measure the effect of your improvements by looking at the business metrics. And for this, you need to include making your product multilingual in your value stream. And this means that translation is a part of your primary operational processes and should not be handled in a project organization, nor in a secundary process. There is no such thing as a translation process, there are multiple primary processes that have a multilingual component. Including activities in your primary process is the only way to discover which of your activities add value to your product. 
 
 
-
-
-So what is the difference between a project and a process? And why does it matter?
-
-"Simply put, a process is a set procedure that involves a sequence of steps that need to be taken in order to produce a result, whereas a project is a temporary course of action that aims to deliver a distinctive product, service, or result."
-
-And what is the difference between a project manager and a process manager? 
-
-A project manager makes sure all tasks are done in order to receive a result that are set for that project. A process manager continuously improves the process and is therefore more concerned with the quality of the process, rather than a deadline. Where of course the belief is that a process of high quality always leads to a predictable and qualitative result.
 
 
 So what happens if you treat translation as a project? 
