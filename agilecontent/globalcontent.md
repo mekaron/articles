@@ -4,15 +4,19 @@ So you have a global content strategy. Now what?
 
 Target audience: CEO's
 
-Goal: show that implementing a global content strategy does not equal hiring an LSP. It equals treating your content processes as a strategic part of your company, which 
-means applying the same process methodologies as to your other primary processes.
+Goal: show that implementing a global content strategy does not equal hiring an LSP. It equals treating your content processes as a strategic part of your company, which means applying the same process methodologies as to your other primary processes.
 
 
-- coming up with a content strategy is not easy. It needs research, experimenting and constant adjusting to the ever changing world
-- then, you got that figured out, 
-- however, once you have your content strategy in place, the only thing you need to do is execute it. And for publishing in multiple languages, all you need to do is hire a translation agency. Right? 
+- Coming up with a content strategy is not easy. It needs research, measuring, experimenting and constant adjusting to the ever changing world
+- Then, you got that figured out, you would like to expand that to multiple markets.  
+- For publishing in multiple languages, all you need to do is hire a translation agency and everything will work out for itself. Right? 
 
 Wrong.
+
+- your content strategy needs adapting for different markets  
+    => you may start with "just translating" to test the waters
+    => then: if 
+
 
 Multiple reasons why this is not enough
 - translation agencies can only execute part of your process. 
@@ -20,8 +24,7 @@ Multiple reasons why this is not enough
   -  risk of suboptimization 
 
 - but also: 
-  - your content strategy needs adapting on the basis of everything that happens in the process. 
-  (something about only be able to adjust your strategy if you have a good view of what happens in the process - god knows if this is true)
+  
 
 
  - most importantly: 
