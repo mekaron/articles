@@ -17,23 +17,37 @@ Outline
 2. Common setup with Contentful/TMS 
 
 3. Problems when setting up a translation pipeline this way
+
   a. lots of defects after translation in design
-  b. developer needed in process
-  c. designer needed in process
-  d. many technical defects
-  e. tables: content types
+
+b. developer needed in process
+
+c. designer needed in process
+
+d. many technical defects
+
+e. tables: content types
 
 4. How to set up contentful
-  a. Philosophy: reusable content
-  b. For this: smaller pieces
-  c. content model
-  d. ...
+
+a. Philosophy: reusable content
+
+b. For this: smaller pieces
+
+c. content model
+
+d. ...
   
 5. things to think about
-  a. source of truth 
-  b. level of segmentation
-  
+
+a. source of truth 
+
+b. level of segmentation
+
+
 6. effects: 
-  a. time to market creating a page
-  b. time to market translation
+
+a. time to market creating a page
+
+b. time to market translation
   
