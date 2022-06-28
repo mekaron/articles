@@ -6,7 +6,7 @@ Goal: to give a blue print on how to work with Contentful and TMSs, how current 
 
 
 Intro:
-The worlds of content management and translation management are, you could say, Venus and Mars. These different planets collide quite unsuccesfully most of the time. For most companies, translation processes are the ones no-one in the content department wants to come close to, because they are too painful, always require rework and have a less than optimal result in terms of UX. 
+The worlds of content management and translation management are, you could say, Venus and Mars. These different planets collide quite dramatically most of the time. For most companies, translation processes are the ones no-one in the content department wants to come close to, because they are too painful, always require rework and have a less than optimal result in terms of UX. 
 
 So a lot of people turn to tools to solve this issue. (Or hire a translation project manager that will burn out within a year). They buy a content management system that promises to make sure you can publish to multiple channel and re-use your content. And the "mature" clients, as we call them, even buy a Translation Management System that integrates with that CMS. That should solve the problem. 
 
