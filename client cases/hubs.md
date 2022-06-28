@@ -1,11 +1,11 @@
 Title: 
-#H1 The ultimate guide to lean/agile translaiton with Contentful
+# The ultimate guide to lean/agile translaiton with Contentful
 
 Target Group: Contentful users who have problems with their localization pipeline: CEO's, marketing mensjes, ...
 
 Goal: to give a blue print on how to work with Contentful and TMSs, how current solutions are not working, and what the key insight is to make it work, and to have content flow in all languages. 
 
-#H2 Intro:
+## Intro:
 The worlds of content management and translation management are, you could say, Venus and Mars. These different planets collide quite dramatically most of the time. For most companies, translation processes are the ones no-one in the content department wants to come close to, because they are too painful, always require rework and have a less than optimal result in terms of UX. 
 
 So a lot of people turn to tools to solve this issue. (Or hire a translation project manager that will burn out within a year). They buy a content management system that promises to make sure you can publish to multiple channel and re-use your content. And the "mature" clients, as we call them, even buy a Translation Management System that integrates with that CMS. That should solve the problem. 
@@ -16,7 +16,7 @@ Somehow, there is no clear vision at CMS-companies on how to deal with translate
 
 So in this article we will fill this gap. Written by Contentful-expert Dennis and Translation management expert Anouk, we have put together, from our own experiences, the ultimate guide to setting up both Contentful, and your integration with translation tools that will guarantee a happy ending: no defects, no rework, and re-usability in all languages. Which leads to the ultimate time to market, for all countries you want to reach.  
 
-#H2 Outline
+## Outline
 
 **General problems with translation**
 This sections gives an overview of problems that arise when working in translation. 
