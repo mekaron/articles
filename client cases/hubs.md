@@ -18,13 +18,13 @@ So in this article we will fill this gap. Written by Contentful-expert Dennis an
 
 ## Outline
 
-**General problems with translation**
+### General problems with translation**
 This sections gives an overview of problems that arise when working in translation. 
 
 - technical defects 
 - rework on design 
 
-###What is a TMS and why use it
+### What is a TMS and why use it
 
 This section explains why it is important to work with a translation tool and not have the translators work in contentful
 
@@ -41,12 +41,12 @@ But:
 
 So we will have to find a way to get the first half and not lose the second half
 
-###Common setup with Contentful/TMS
+### Common setup with Contentful/TMS
 This section explains how translation is usually viewed, as a waterfall project, and the tools are standardly designed to work that way.
 (het is toch eigenlijk niet te geloven van zo'n localize hoe ze dit hebben opgezet he)
 comment van een toehoorder van de Design Night: "My previous company was one of the CMS providers, and I looked in-depth into the translation feature of competitors. And they all are reinforcing the old model. Designers & developers create page templates first, then content creators fill the content in CMS and the translators deliver the content to multi-language sites."
 
-###Problems when setting up a translation pipeline this way
+### Problems when setting up a translation pipeline this way
 This section describes the problems when viewing translation as a waterfall project
 
 - process becomes complex because of 
