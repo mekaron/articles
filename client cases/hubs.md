@@ -12,11 +12,13 @@ In this white paper we will give you the pointers how to set up Contentful, so t
 
 
 Outline
-1. What is a TMS and why use it
+1. General problems with translation
 
-2. Common setup with Contentful/TMS 
+2. What is a TMS and why use it
 
-3. Problems when setting up a translation pipeline this way
+3. Common setup with Contentful/TMS 
+
+4. Problems when setting up a translation pipeline this way
 
   a. lots of defects after translation in design
 
@@ -28,7 +30,7 @@ d. many technical defects
 
 e. tables: content types
 
-4. How to set up contentful
+5. How to set up contentful
 
 a. Philosophy: reusable content
 
@@ -38,14 +40,14 @@ c. content model
 
 d. ...
   
-5. things to think about
+6. things to think about
 
 a. source of truth 
 
 b. level of segmentation
 
 
-6. effects: 
+7. effects: 
 
 a. time to market creating a page
 
