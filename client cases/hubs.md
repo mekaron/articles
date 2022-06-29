@@ -60,9 +60,9 @@ This section describes the problems when viewing translation as a waterfall proj
 This section describes the philosphy of contentful and how this translates to translation 
 (dit hebben we in die presentatie ook een keer gezegd)
 
-a. Philosophy: reusable content
-b. For this: smaller pieces
-c. Content model
+- Philosophy: reusable content
+- For this: smaller pieces
+- Content model
 
 ### Practical implementation
 This section describes the practical implementation
