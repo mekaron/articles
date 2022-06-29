@@ -87,6 +87,13 @@ This section describes what happens if you set this up this way
 - time to market creating a page: times 5
 - time to market translation: publish 3 days after last entry is done in creation process
 
+### Next steps
+This section describes what would be even better: translating the content when it is in Figma
+
+- context, no screenshots necessary
+- faster time to market
+- Even less chance of design defects
+
 ### Stichtelijk woord
 hier zeggen we nog iets leuks
 
