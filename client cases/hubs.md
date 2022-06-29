@@ -161,4 +161,4 @@ de meeste kun je oplossen door gewoon goed te kijken en het te fixen waar het ge
 maar het wordt zo ingewikkeld dat dat bijna niet gaat
 dus daarom moet je naar kleinere pieces
 
-  
+test
