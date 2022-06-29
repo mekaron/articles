@@ -18,7 +18,7 @@ So in this article we will fill this gap. Written by Contentful-expert Dennis an
 
 ## Outline
 
-### General problems with translation**
+### General problems with translation
 This sections gives an overview of problems that arise when working in translation. 
 
 - technical defects 
@@ -49,39 +49,45 @@ comment van een toehoorder van de Design Night: "My previous company was one of 
 ### Problems when setting up a translation pipeline this way
 This section describes the problems when viewing translation as a waterfall project
 
-- process becomes complex because of 
+- process becomes complex because of having to account for exceptions that originates in the storage of content
+- rework in design
+- designer and developer needed in operational process
+- technical defects
+- ...
 
 
-  a. lots of defects after translation in design
-
-b. developer needed in process
-
-c. designer needed in process
-
-d. many technical defects
-
-e. tables: content types
-
-5. How to set up contentful
+### how it was meant to be
+This section describes the philosphy of contentful and how this translates to translation 
+(dit hebben we in die presentatie ook een keer gezegd)
 
 a. Philosophy: reusable content
-
 b. For this: smaller pieces
+c. Content model
 
-c. content model
+### Practical implementation
+This section describes the practical implementation
 
-d. ...
-  
-6. things to think about
-
-a. source of truth 
-
-b. level of segmentation
+- content model
+- process: difference between operational and new stuff
+- plug-in in Contentful
+- middleware
+- translators
 
 
-7. effects: 
+### Things to think about
+This section describes the things we had to make decisions about like:
 
-a. time to market creating a page
+- source of truth 
+- level of segmentation
 
-b. time to market translation
+
+### Effects: 
+This section describes what happens if you set this up this way
+
+- time to market creating a page: times 5
+- time to market translation: publish 3 days after last entry is done in creation process
+
+### Stichtelijk woord
+hier zeggen we nog iets leuks
+
   
