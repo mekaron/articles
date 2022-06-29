@@ -21,8 +21,71 @@ So in this article we will fill this gap. Written by Contentful-expert Dennis an
 ### General problems with translation
 This sections gives an overview of problems that arise when working in translation. 
 
+- waterfall
 - technical defects 
 - rework on design 
+- time to market
+
+
+### How are website typically built - and translated
+
+
+
+### What do you run into? 
+
+
+
+### how contentful is designed
+This section describes the philosphy of contentful and how this translates to translation 
+(dit hebben we in die presentatie ook een keer gezegd)
+
+- Philosophy: chunks and blobs => structured blocks of content that fit together; 
+
+Reden:
+- reusability
+- multi-channel
+- ontkoppelen content van design (zeer belangrijk voor vertalen)
+- meer complexiteit in pagina's mogelijk zonder dat je content model complex wordt
+
+
+Main problem: 
+we denken in termen van "oud" website bouwen, terwijl contentful een andere filosofie heeft. 
+
+Andere tools, maar ook mensen, gaan uit van "oud", waterval, etc, en die twee gedachtengangen botsen. Daardoor wordt de filosofie niet helemaal gevolgd en wordt het een troepje. 
+
+
+
+
+
+
+
+### Common setup with Contentful/TMS
+This section explains how translation is usually viewed, as a waterfall project, and the tools are standardly designed to work that way.
+(het is toch eigenlijk niet te geloven van zo'n localize hoe ze dit hebben opgezet he)
+comment van een toehoorder van de Design Night: "My previous company was one of the CMS providers, and I looked in-depth into the translation feature of competitors. And they all are reinforcing the old model. Designers & developers create page templates first, then content creators fill the content in CMS and the translators deliver the content to multi-language sites."
+
+- template a page
+- waterfall approach: translate after everything is done, is reflected in the way the integrations are set up
+- no means to really integrate with core process: you can't easily define what you want to send to the translators
+- because the website is put together from the building blocks with code, and not in contentful, there was no context for the translator what they were doing
+- big amounts of data were sent back and forth, selecting content only after data was transferred
+
+
+### Problems when setting up a translation pipeline this way
+This section describes the problems when viewing translation as a waterfall project
+
+- process becomes complex because of having to account for exceptions that originates in the storage of content
+  - for example: code in markdown, trying to fix it in the TMS, or by the translator => productiviteitsproblemen, toch technische defects, bladiebla
+
+
+- rework in design
+- designer and developer needed in operational process
+- technical defects
+- time to market is slow
+
+
+
+
 
 ### What is a TMS and why use it
 
@@ -41,34 +104,30 @@ But:
 
 So we will have to find a way to get the first half and not lose the second half
 
-### Common setup with Contentful/TMS
-This section explains how translation is usually viewed, as a waterfall project, and the tools are standardly designed to work that way.
-(het is toch eigenlijk niet te geloven van zo'n localize hoe ze dit hebben opgezet he)
-comment van een toehoorder van de Design Night: "My previous company was one of the CMS providers, and I looked in-depth into the translation feature of competitors. And they all are reinforcing the old model. Designers & developers create page templates first, then content creators fill the content in CMS and the translators deliver the content to multi-language sites."
-
-### Problems when setting up a translation pipeline this way
-This section describes the problems when viewing translation as a waterfall project
-
-- process becomes complex because of having to account for exceptions that originates in the storage of content
-- rework in design
-- designer and developer needed in operational process
-- technical defects
-- ...
 
 
-### how it was meant to be
-This section describes the philosphy of contentful and how this translates to translation 
-(dit hebben we in die presentatie ook een keer gezegd)
-
-- Philosophy: reusable content
-- For this: smaller pieces
-- Content model
 
 ### Practical implementation
+
+1. tried to fix problems in the translation process that originated in the CMS: 
+
+- complexity was too big, problem solving impossible
+
+- freedom in design led to ad hoc development, leading to code/html/markdown
+
+
+
+
+
 This section describes the practical implementation
 
-- content model
+- smaller pieces
+=> complexity became too big, so we had to drill it down by looking at smaller pieces: pages to entries. 
+
+- the design from 
+
 - process: difference between operational and new stuff
+- content model
 - plug-in in Contentful
 - middleware
 - translators
@@ -96,5 +155,10 @@ This section describes what would be even better: translating the content when i
 
 ### Stichtelijk woord
 hier zeggen we nog iets leuks
+
+problemen komen door waterval,
+de meeste kun je oplossen door gewoon goed te kijken en het te fixen waar het gebeurt
+maar het wordt zo ingewikkeld dat dat bijna niet gaat
+dus daarom moet je naar kleinere pieces
 
   
